@@ -31,7 +31,7 @@ bio: 'I’m a Ph.D. student in the Reasoning and Learning Lab at McGill Universi
 interests:
   - reinforcement learning, deep learning
   - policy optimization
-  - robotics, CMDPs
+  - continuous control, CMDPs
   - online learning, lifelong learning
   - causality enthusiast
   - neuroscience fan 
