@@ -1,0 +1,11 @@
+---
+title: "Actor-critic as a joint maximization problem"
+date: 2022-01-01
+# publishDate: 2023-06-10T20:23:40.733693Z
+authors: ["Arushi Jain", "Veronica Chelu", "Sharan Vaswani", "Arthur Guez", "Nicolas Le Roux"]
+publication_types: ["3"]
+abstract: "As policy gradient methods can suffer from high variance, it is common to replace the Monte-Carlo estimate of the return with a critic whose role is to provide a gradient for the actor. Despite the ubiquity of this technique, there is no consensus over the objective that the critic should optimize. Using an analogy with Q-learning, it is often taken to be a variation on the TD-error. Except in specific cases, for instance when using compatible function approximation, this objective is not directly linked to the quality of the resulting gradient estimate and a better critic does not necessarily translate to a better actor. Worse, few results exist when the network used for the critic has low capacity. Leveraging recent lower bounds on the expected return, we propose an extension leading to a new objective for the critic. In contrast with existing results, the resulting objective is directly linked to the expected return of the actor, regardless of the parameterization used for both the actor and the critic. Furthermore, that objective depends on the policy gradient method used. For example, why a method like REINFORCE will require the critic to be a good approximation of the Q-value, methods based on the stochastic value gradient will instead require the critic to be a good approximation of the derivative of the Q-value with respect to the action. Importantly, this approach provides performance guarantees as well as conditions on the critic to guarantee monotonic improvement of the actor in expectation. If these conditions are not met, which will happen when the critic network does not have enough capacity, a hybrid approach using both Monte-Carlo estimates of the return and a critic can be used, with weights provided by the theory. Although we focus on actor-critic methods, our approach can be extended to other approximations of the gradient, for instance based on a model of the environment."
+featured: false
+publication: "*RLDM*"
+---
+
