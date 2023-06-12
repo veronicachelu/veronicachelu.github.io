@@ -143,7 +143,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-
+resources
+resources/
+/resources/
 logs
 wandb
 venv
