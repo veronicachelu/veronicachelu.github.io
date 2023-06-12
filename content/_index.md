@@ -118,7 +118,7 @@ sections:
         - title: Research Scientist Intern
           company: DeepMind London
           date_start: '2021-02-01'
-          date_end: '2021-07-01'
+          date_end: '2021-06-01'
           # company_url: ''
           # company_logo: org-x
           # location: California
