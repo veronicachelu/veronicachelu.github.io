@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | VERONICA CHELU</title>
+    <link>https://example.com/publication-type/3/</link>
+      <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu7e826b0f433a880ab54e8b0cc8b90ef8_497847_300x300_fit_lanczos_3.png</url>
+      <title>3</title>
+      <link>https://example.com/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Actor-critic as a joint maximization problem</title>
+      <link>https://example.com/publication/2022-rldm-actor-critic/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022-rldm-actor-critic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Credit Assignment</title>
+      <link>https://example.com/publication/2022-selective-credit-assignment/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022-selective-credit-assignment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | VERONICA CHELU</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu7e826b0f433a880ab54e8b0cc8b90ef8_497847_300x300_fit_lanczos_3.png</url>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>A Generalized Bootstrap Target for Value-Learning, Efficiently Combining Value and Feature Predictions</title>
+      <link>https://example.com/publication/2022-aaaigx-chen-a-generalized-bootstrap/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022-aaaigx-chen-a-generalized-bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Expected Emphatic Traces for Deep RL</title>
+      <link>https://example.com/publication/2022-jiang-learning-learning-expected-emphatic-traces/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022-jiang-learning-learning-expected-emphatic-traces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forethought and Hindsight in Credit Assignment</title>
+      <link>https://example.com/publication/2020-neurips-forethought-and-hindsight-in-credit-assignment/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2020-neurips-forethought-and-hindsight-in-credit-assignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lambda Successor Return Error</title>
+      <link>https://example.com/publication/2020-lambda-successor-return-error/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2020-lambda-successor-return-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Option Discovery by Aiming to Predict</title>
+      <link>https://example.com/publication/2019-option-discovery-by-aiming-to-predict/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019-option-discovery-by-aiming-to-predict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scene Understanding Networks for Autonomous Driving based on Around View Monitoring System</title>
+      <link>https://example.com/publication/2018-scene-understanding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018-scene-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal abstraction and subgoal discovery by clustering successor features</title>
+      <link>https://example.com/publication/2018-temporal-abstraction-and-subgoal-discovery/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018-temporal-abstraction-and-subgoal-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of exploratory behaviour on temporal abstraction and subgoal identification</title>
+      <link>https://example.com/publication/2018-the-influence-of-exploratory-behaviour/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018-the-influence-of-exploratory-behaviour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
