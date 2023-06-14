@@ -6,6 +6,8 @@ appearance:
   font_size: S
 
 # SEO
+# meta:
+#   favicon: 
 
 marketing:
   seo:
@@ -26,7 +28,7 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: true
+    show_logo: false
     show_language: false
     show_day_night: false
     show_search: false
