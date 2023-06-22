@@ -25,7 +25,7 @@ status:
   icon: ☕️
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'I’m a Ph.D. student in the Reasoning and Learning Lab at McGill University and Mila, Montreal.'
+bio: 'I’m a Ph.D. student in the Reasoning and Learning Lab at McGill University and Mila, Montreal.' 
 
 # Interests to show in About widget
 interests:
@@ -88,16 +88,18 @@ email: ''
 highlight_name: true
 ---
 
-<!-- I’m a Ph.D. student in the Reasoning and Learning Lab at McGill University and Mila, Montreal, supervised by Doina Precup. Before that, I completed my M.Sc and B.Sc in Computer Science at University Politehnica in Bucharest, Romania.  -->
-<!-- I've also been very fortunate to learn from and research with wonderful people from DeepMind, during the two internships with them.  -->
+***I am currently on the job market for postdoctoral or research scientist positions***
+Don't hesitate to reach out if you think I would be a good addition to your lab or simply if you want to chat about research!
 
-My research focuses on designing principled reinforcement learning algorithms that can learn fast from trial-and-error  interactive experience with an environment, by building internal representations, which they can leverage to plan, act and adapt with efficiency.
+I am a fifth year Ph.D student in the Reasoning and Learning Lab at McGill University and Mila, Montreal, supervised by Doina Precup. 
+
+My research focuses on designing principled reinforcement learning algorithms that can learn fast from trial-and-error interactive experience with an environment, by building internal representations, which they can leverage to plan, act and adapt with efficiency.
 
 I appreciate research on offers a new understanding, an insight, or connections between seemingly disparate branches of research in a unifying truth. I am also a fan of research mysteries, and tend to get excited by fundamental questions. 
 
-I work with on the reinforcement learning problem, but I use tools and perspectives from optimization, and understandings from cognitive science.
+I work with on the reinforcement learning problem, but I use tools and perspectives from optimization, dynamical systems and understandings from cognitive science.
 
-I am currently interested in questions related to learning, adaptivity, planning.
+I am currently interested in questions related to accelerated learning, adaptivity, planning.
 
 
 {style="text-align: justify;"}
