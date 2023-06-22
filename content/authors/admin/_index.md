@@ -94,7 +94,7 @@ Don't hesitate to reach out if you think I would be a good addition to your lab 
 
 ------------------------------------------------------------------------------------
 
-I am a fifth year Ph.D student in the Reasoning and Learning Lab at McGill University and Mila, Montreal, supervised by Doina Precup. 
+I am a fifth year Ph.D student in the Reasoning and Learning Lab at McGill University and Mila, Montreal, supervised by <a href="https://cs.mcgill.ca/~dprecup/">Doina Precup</a>. 
 
 My research focuses on designing principled reinforcement learning algorithms that can learn fast from trial-and-error interactive experience with an environment, by building internal representations, which they can leverage to plan, act and adapt with efficiency.
 
