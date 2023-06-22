@@ -88,8 +88,11 @@ email: ''
 highlight_name: true
 ---
 
-***I am currently on the job market for postdoctoral or research scientist positions***
+*** I am currently on the job market for postdoctoral or research scientist positions ***
+ 
 Don't hesitate to reach out if you think I would be a good addition to your lab or simply if you want to chat about research!
+
+------------------------------------------------------------------------------------
 
 I am a fifth year Ph.D student in the Reasoning and Learning Lab at McGill University and Mila, Montreal, supervised by Doina Precup. 
 
