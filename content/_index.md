@@ -268,7 +268,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Featured Publications & Preprints
       filters:
         folders:
           - publication
@@ -289,7 +289,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Recent Publications
+      title: Recent Publications & Preprints
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
