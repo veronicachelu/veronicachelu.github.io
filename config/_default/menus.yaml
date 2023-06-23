@@ -25,7 +25,7 @@ main:
   - name: Academic awards
     url: '#accomplishments'
     weight: 30
-  - name: Publications
+  - name: Publications & Preprints
     url: '#featured'
     weight: 40
   # - name: Talks
