@@ -90,7 +90,9 @@ highlight_name: true
 
 *** I am currently on the job market for postdoctoral or research scientist positions ***
  
-Don't hesitate to reach out if you think I would be a good addition to your lab or just chat about research! <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #1565c0;"></i></a>
+Don't hesitate to reach out if you think I would be a good addition to your lab or just chat about research!
+
+Schedule a meeting <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #1565c0;"></i></a>
 
 ------------------------------------------------------------------------------------
 
