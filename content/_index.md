@@ -265,28 +265,28 @@ sections:
 # #         {{< gallery album="demo" >}}
 # #     design:
 # #       columns: '1'
-#   - block: collection
-#     id: featured
-#     content:
-#       title: Featured Publications & Preprints
-#       filters:
-#         folders:
-#           - publication
-#           - publication/2022-optimism-and-adaptivity
-#           - publication/2022-rldm-actor-critic
-#           - publication/2022-selective-credit-assignment
-#           - publication/2022-aaaigx-chen-a-generalized-bootstrap
-#           - publication/2022-jiang-learning-learning-expected-emphatic-traces
-#           - publication/2020-neurips-forethought-and-hindsight-in-credit-assignment
-#           - publication/2020-lambda-successor-return-error
-#           - publication/2019-option-discovery-by-aiming-to-predict
-#           - publication/2018-the-influence-of-exploratory-behaviour
-#           - publication/2018-temporal-abstraction-and-subgoal-discovery
-#           - publication/2018-scene-understanding
-#         featured_only: true
-#     design:
-#       columns: '2'
-#       view: citation
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications & Preprints
+      filters:
+        folders:
+          - publication
+          - publication/2023-acceleration_in_policy_optimization
+          - publication/2022-rldm-actor-critic
+          - publication/2022-selective-credit-assignment
+          - publication/2022-aaaigx-chen-a-generalized-bootstrap
+          - publication/2022-jiang-learning-learning-expected-emphatic-traces
+          - publication/2020-neurips-forethought-and-hindsight-in-credit-assignment
+          - publication/2020-lambda-successor-return-error
+          - publication/2019-option-discovery-by-aiming-to-predict
+          - publication/2018-the-influence-of-exploratory-behaviour
+          - publication/2018-temporal-abstraction-and-subgoal-discovery
+          - publication/2018-scene-understanding
+        featured_only: true
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     content:
       title: Recent Publications & Preprints
@@ -297,7 +297,7 @@ sections:
       filters:
         folders:
           - publication
-          - publication/2022-optimism-and-adaptivity
+          - publication/2023-acceleration_in_policy_optimization
           - publication/2022-rldm-actor-critic
           - publication/2022-selective-credit-assignment
           - publication/2022-aaaigx-chen-a-generalized-bootstrap
