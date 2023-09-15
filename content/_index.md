@@ -82,7 +82,7 @@ sections:
     content:
       title: Research overview
       text: |-
-        I recently worked towards a unifying paradigm for accelerating policy optimization methods in RL through optimism & adaptivity, proposing adaptive optimistic policy optimization algorithms that parallel known algorithms from online convex optimization.
+        I recently worked towards a unifying paradigm for accelerating policy optimization methods in RL by adding foresight in policy optimization, proposing adaptive optimistic policy optimization algorithms that parallel known algorithms from online convex optimization.
 
         Previously, I studied credit assignment in value-based agents, focusing on questions related to how agents should model the environments they interact with, whether that be in anticipation using forethought, or retrospectively using hindsight models and backward looking mechanisms for adaptivity. 
 
@@ -203,90 +203,90 @@ sections:
           url: ''
     design:
       columns: '2'
-  # - block: collection
-  #   id: posts
-  #   content:
-  #     title: Recent Posts
-  #     subtitle: ''
-  #     text: ''
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       folders:
-  #         - post
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: compact
-  #     columns: '2'
-  # - block: portfolio
-  #   id: projects
-  #   content:
-  #     title: Projects
-  #     filters:
-  #       folders:
-  #         - project
-  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  #     default_button_index: 0
-  #     # Filter toolbar (optional).
-  #     # Add or remove as many filters (`filter_button` instances) as you like.
-  #     # To show all items, set `tag` to "*".
-  #     # To filter by a specific tag, set `tag` to an existing tag name.
-  #     # To remove the toolbar, delete the entire `filter_button` block.
-  #     buttons:
-  #       - name: All
-  #         tag: '*'
-  #       - name: Deep Learning
-  #         tag: Deep Learning
-  #       - name: Other
-  #         tag: Demo
-  #   design:
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: '1'
-  #     view: showcase
-  #     # For Showcase view, flip alternate rows?
-  #     flip_alt_rows: false
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications & Preprints
-      filters:
-        folders:
-          - publication
-          - publication/2022-optimism-and-adaptivity
-          - publication/2022-rldm-actor-critic
-          - publication/2022-selective-credit-assignment
-          - publication/2022-aaaigx-chen-a-generalized-bootstrap
-          - publication/2022-jiang-learning-learning-expected-emphatic-traces
-          - publication/2020-neurips-forethought-and-hindsight-in-credit-assignment
-          - publication/2020-lambda-successor-return-error
-          - publication/2019-option-discovery-by-aiming-to-predict
-          - publication/2018-the-influence-of-exploratory-behaviour
-          - publication/2018-temporal-abstraction-and-subgoal-discovery
-          - publication/2018-scene-understanding
-        featured_only: true
-    design:
-      columns: '2'
-      view: citation
+#   - block: collection
+#     id: musings
+#     content:
+#       title: Recent Musings
+#       subtitle: ''
+#       text: ''
+#       # Choose how many pages you would like to display (0 = all pages)
+#       count: 5
+#       # Filter on criteria
+#       filters:
+#         folders:
+#           - musings
+#         author: ""
+#         category: ""
+#         tag: ""
+#         exclude_featured: false
+#         exclude_future: false
+#         exclude_past: false
+#         publication_type: ""
+#       # Choose how many pages you would like to offset by
+#       offset: 0
+#       # Page order: descending (desc) or ascending (asc) date.
+#       order: desc
+#     design:
+#       # Choose a layout view
+#       view: compact
+#       columns: '2'
+# #   - block: portfolio
+# #     id: projects
+# #     content:
+# #       title: Projects
+# #       filters:
+# #         folders:
+# #           - project
+# #       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+# #       default_button_index: 0
+# #       # Filter toolbar (optional).
+# #       # Add or remove as many filters (`filter_button` instances) as you like.
+# #       # To show all items, set `tag` to "*".
+# #       # To filter by a specific tag, set `tag` to an existing tag name.
+# #       # To remove the toolbar, delete the entire `filter_button` block.
+# #       buttons:
+# #         - name: All
+# #           tag: '*'
+# #         - name: Deep Learning
+# #           tag: Deep Learning
+# #         - name: Other
+# #           tag: Demo
+# #     design:
+# #       # Choose how many columns the section has. Valid values: '1' or '2'.
+# #       columns: '1'
+# #       view: showcase
+# #       # For Showcase view, flip alternate rows?
+# #       flip_alt_rows: false
+# #   - block: markdown
+# #     content:
+# #       title: Gallery
+# #       subtitle: ''
+# #       text: |-
+# #         {{< gallery album="demo" >}}
+# #     design:
+# #       columns: '1'
+#   - block: collection
+#     id: featured
+#     content:
+#       title: Featured Publications & Preprints
+#       filters:
+#         folders:
+#           - publication
+#           - publication/2022-optimism-and-adaptivity
+#           - publication/2022-rldm-actor-critic
+#           - publication/2022-selective-credit-assignment
+#           - publication/2022-aaaigx-chen-a-generalized-bootstrap
+#           - publication/2022-jiang-learning-learning-expected-emphatic-traces
+#           - publication/2020-neurips-forethought-and-hindsight-in-credit-assignment
+#           - publication/2020-lambda-successor-return-error
+#           - publication/2019-option-discovery-by-aiming-to-predict
+#           - publication/2018-the-influence-of-exploratory-behaviour
+#           - publication/2018-temporal-abstraction-and-subgoal-discovery
+#           - publication/2018-scene-understanding
+#         featured_only: true
+#     design:
+#       columns: '2'
+#       view: citation
   - block: collection
     content:
       title: Recent Publications & Preprints

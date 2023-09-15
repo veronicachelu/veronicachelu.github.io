@@ -30,11 +30,11 @@ bio: 'I’m a Ph.D. student in the Reasoning and Learning Lab at McGill Universi
 # Interests to show in About widget
 interests:
   - reinforcement learning, deep learning
-  - policy optimization
-  - continuous control, CMDPs
+  - policy optimization, continuous control
   - online learning, lifelong learning
-  - causality enthusiast
-  - neuroscience fan 
+  - plasticity
+  - psychedelic research, neuroscience 
+  - causality
 
 # Education to show in About widget
 education:
