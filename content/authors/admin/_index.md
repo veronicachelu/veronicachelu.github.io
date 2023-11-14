@@ -30,10 +30,9 @@ bio: 'I’m a Ph.D. student in the Reasoning and Learning Lab at McGill Universi
 # Interests to show in About widget
 interests:
   - reinforcement learning, deep learning
-  - policy optimization, continuous control
+  - policy optimization
   - online learning, lifelong learning
-  - plasticity
-  - psychedelic research, neuroscience 
+  - (neuro)plasticity, psychedelic research, neuroscience 
   - causality
 
 # Education to show in About widget
@@ -98,13 +97,14 @@ Schedule a meeting <a href="https://calendly.com/veronica-chelu" style="text-dec
 
 I am a Ph.D student in the Reasoning and Learning Lab at McGill University and Mila, Montreal, supervised by <a href="https://cs.mcgill.ca/~dprecup/">Doina Precup</a>. 
 
-My research focuses on designing principled reinforcement learning algorithms that can learn fast from trial-and-error interactive experience with an environment, by building internal representations, which they can leverage to plan, act and adapt with efficiency.
+Broadly, my research focuses on designing principled reinforcement learning algorithms that can learn from trial-and-error interactive experience with an environment. 
+by building internal representations, which they can leverage to plan, act and adapt with efficiency.
 
 I appreciate research on offers a new understanding, an insight, or connections between seemingly disparate branches of research in a unifying truth. I am also a fan of research mysteries, and tend to get excited by fundamental questions. 
 
 I work with on the reinforcement learning problem, but I use tools and perspectives from optimization, dynamical systems and understandings from cognitive science.
 
-I am currently interested in questions related to accelerated learning, adaptivity, planning.
+I am currently interested in questions related to acceleration, adaptivity, plasticity and planning for online or continual learning.
 
 
 {style="text-align: justify;"}

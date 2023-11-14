@@ -82,7 +82,7 @@ sections:
     content:
       title: Research overview
       text: |-
-        I recently worked towards a unifying paradigm for accelerating policy optimization methods in RL by adding foresight in policy optimization, proposing adaptive optimistic policy optimization algorithms that parallel known algorithms from online convex optimization.
+        My current research focuses on a paradigm for acceleration of policy optimization algorithms in RL using adaptive-optimistic algorithms that parallel well-known algorithms from online convex optimization.
 
         Previously, I studied credit assignment in value-based agents, focusing on questions related to how agents should model the environments they interact with, whether that be in anticipation using forethought, or retrospectively using hindsight models and backward looking mechanisms for adaptivity. 
 
