@@ -19,7 +19,11 @@ organizations:
     url: http://rl.cs.mcgill.ca/team/
   - name: Mila Quebec AI Institute
     url: https://mila.quebec/en/person/veronica-chelu/
-    
+
+whoami: |-
+  ______
+  meditator, yogi, acrobat, earthling
+
 # # Status emoji
 status:
   icon: ☕️

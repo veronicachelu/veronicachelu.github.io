@@ -99,6 +99,15 @@
         {{ end }}
       </ul>
 
+      <div class="portrait-title", style="font-size: 1rem;
+      font-weight: 300;
+      color: rgba(100, 100, 100, 0.84);
+      margin: 0 0 10px;">
+      </br>
+      
+        {{ with $person.whoami }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
+      </div>
+
     </div>
   </div>
   <div class="col-12 col-lg-8">
