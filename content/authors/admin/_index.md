@@ -41,10 +41,11 @@ status:
 bio: 'I’m a Ph.D. student in the Reasoning and Learning Lab at McGill University and Mila, Montreal.' 
 
 # Interests to show in About widget
-interests:
+interests: 
   - reinforcement learning, policy optimization
   - deep/online/lifelong learning
-  - neuroscience, neuroplasticity, psychedelic research  
+  - neuroscience, psychedelic research
+  - altered states of consciousness
   - causality
 
 # Education to show in About widget
@@ -110,7 +111,7 @@ Broadly, my <span style="color:#EF8371;">research</span> focuses on <span style=
 Primarily, I work with the <span style="color:#bbdefb;">reinforcement learning (RL)</span> problem, but use tools and perspectives from <span style="color:#bbdefb;">neuroscience</span>, <span style="color:#bbdefb;">optimization</span>, <span style="color:#bbdefb;">dynamical systems</spani> and understandings from other <span style="color:#bbdefb;">cognitive sciences</span>.
 
 
-Interested in <span style="color:#00a8e8;">questions</span> related to
+Currently interested in <span style="color:#00a8e8;">questions</span> related to
 
   * 🤖 acceleration, adaptivity, plasticity, planning for lifelong learning
 
