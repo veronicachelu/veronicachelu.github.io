@@ -1,9 +1,9 @@
 # Appearance
 appearance:
-  theme_day: minimal
-  # theme_night: minimal
+  # theme_day: minimal
+  theme_night: minimal
   font: minimal
-  font_size: S
+  font_size: XS
 
 # SEO
 # meta:
@@ -56,7 +56,7 @@ footer:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
+    theme_light: github-dark
     theme_dark: dracula
   math:
     enable: true

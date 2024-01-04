@@ -112,7 +112,7 @@
     {{ with $block.content.title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
 
     {{ with $person_page.Content }}
-    <div class="article-style" style="text-align: justify;">
+    <div class="article-style" style="text-align: justify;max-width: 75%;">
       {{ . }}
     </div>
     {{ end }}

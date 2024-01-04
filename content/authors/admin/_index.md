@@ -11,7 +11,7 @@ last_name: Chelu
 superuser: true
 
 # Role/position
-role: Ph.D Candidate 🌀
+role: Ph.D Candidate 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,19 +29,18 @@ bio: 'I’m a Ph.D. student in the Reasoning and Learning Lab at McGill Universi
 
 # Interests to show in About widget
 interests:
-  - reinforcement learning, deep learning
-  - policy optimization
-  - online learning, lifelong learning
-  - (neuro)plasticity, psychedelic research, neuroscience 
+  - reinforcement learning, policy optimization
+  - deep/online/lifelong learning
+  - neuroscience, neuroplasticity, psychedelic research  
   - causality
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Reinforcement Learning, Artificial Intelligence
+    - course: PhD in Computer Science
       institution: McGill University / Mila Quebec AI Institute
       year: 2019-present
-    - course: M.Sc in Artificial Intelligence, Computer Science
+    - course: M.Sc in Computer Science
       institution: University Politehnica of Bucharest
       year: 2013
     - course: B.Sc in Computer Science
@@ -86,25 +85,18 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Don't hesitate to reach out if you want to chat about research! Schedule a meeting <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #FFFFFF;"></i></a>
+____________________________________________________________________________________
+> 🧑🏻‍🎓 I am a Ph.D student in the Reasoning and Learning Lab at McGill University and Mila, Montreal, supervised by <a href="https://cs.mcgill.ca/~dprecup/">Doina Precup</a>. 
+_________________________________________________________________
+🧑‍🔬 Broadly, my research focuses on designing algorithms 👾 that learn from trial-and-error interactive experience with an environment by building internal representations, which they can leverage to plan, act and adapt with efficiency.
 
-<!-- *** I am currently on the job market for postdoctoral or research scientist positions *** -->
- <!-- think I would be a good addition to your lab or just -->
-Don't hesitate to reach out if you want to chat about research!
+Primarily work with the reinforcement learning problem, but use tools and perspectives from optimization, dynamical systems and understandings from cognitive science.
+_________________________________________________________________
+❔Interested in questions related to
+* *AI* 🤖---acceleration, adaptivity, plasticity and planning for lifelong learning
+* *neuroscience* 🧠---psychedelic research for neuroplasticity, psychopathology, study and understanding altered states of consciousness induced by meditation 🧘🏻‍♀️ and psychedelics 🌀.
+_________________________________________________________________
+Fan of research mysteries 🔮 and fundamental questions. Appreciate research that offers a new understanding, insight ✨, or connection between seemingly disparate branches of research or accross fields in a unifying truth 🤯. 
 
-Schedule a meeting <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #1565c0;"></i></a>
-
-------------------------------------------------------------------------------------
-
-I am a Ph.D student in the Reasoning and Learning Lab at McGill University and Mila, Montreal, supervised by <a href="https://cs.mcgill.ca/~dprecup/">Doina Precup</a>. 
-
-Broadly, my research focuses on designing principled reinforcement learning algorithms that can learn from trial-and-error interactive experience with an environment. 
-by building internal representations, which they can leverage to plan, act and adapt with efficiency.
-
-I appreciate research on offers a new understanding, an insight, or connections between seemingly disparate branches of research in a unifying truth. I am also a fan of research mysteries, and tend to get excited by fundamental questions. 
-
-I work with on the reinforcement learning problem, but I use tools and perspectives from optimization, dynamical systems and understandings from cognitive science.
-
-I am currently interested in questions related to acceleration, adaptivity, plasticity and planning for online or continual learning.
-
-
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;"} -->
