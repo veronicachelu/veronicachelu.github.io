@@ -98,27 +98,31 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
->Don't hesitate to reach out if you want to <i style="color:#bbdefb;">chat about research</i>. 
+>Don't hesitate to reach out if you want to <span style="color:#bbdefb;">chat about research</span>. 
 >
->Schedule a <i style="color:#bbdefb;">meeting</i> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #bbdefb;"></i></a>
+>Schedule a <span style="color:#bbdefb;">meeting</span>  <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a>
 _________________________________________________________________
 
 
 
-Broadly, <i style="color:#00a8e8;">my research</i> focuses on <span style="color:#bbdefb;">designing algorithms</span> that <span style="color:#bbdefb;">learn</span> from <span style="color:#bbdefb;">trial-and-error</span> <span style="color:#bbdefb;">interactive experience</span> with an <span style="color:#bbdefb;">environment</span> by leveraging <span style="color:#bbdefb;">internal representations</span> to <span style="color:#bbdefb;">plan, act and adapt</span> with efficiency.
+Broadly, <span style="color:#00a8e8;">my research</span> focuses on <span style="color:#bbdefb;">designing algorithms</span> that <span style="color:#bbdefb;">learn</span> from <span style="color:#bbdefb;">trial-and-error</span> <span style="color:#bbdefb;">interactive experience</span> with an <span style="color:#bbdefb;">environment</span> by leveraging <span style="color:#bbdefb;">internal representations</span> to <span style="color:#bbdefb;">plan, act and adapt</span> with efficiency.
 
 Primarily, I work with the <span style="color:#bbdefb;">reinforcement learning (RL)</span> problem, but use tools and perspectives from <span style="color:#bbdefb;">neuroscience</span>, <span style="color:#bbdefb;">optimization</span>, <span style="color:#bbdefb;">dynamical systems</spani> and understandings from other <span style="color:#bbdefb;">cognitive sciences</span>.
 
 
-Interested in <i style="color:#00a8e8;">questions</i> related to
-*  🤖---acceleration, adaptivity, plasticity and planning for lifelong learning;
-*  🧠---psychedelic research for neuroplasticity, psychopathology, study and understanding altered states of consciousness induced by meditation 🧘🏻‍♀️ and psychedelics 🌀.
+Interested in <span style="color:#00a8e8;">questions</span> related to
+
+  * 🤖 acceleration, adaptivity, plasticity, planning for lifelong learning
+
+  * 🧠 neuroplasticity, habitual or goal directed behavior, psychedelic research for
+    * psychopathology
+    * altered states of consciousness---meditation 🧘🏻‍♀️ and psychedelics 🌀
 
 _________________________________________________________________
 
 Fan of <span style="color:#bbdefb;">research mysteries</span> 🔮 and <span style="color:#bbdefb;">fundamental questions</span>.
 
-Appreciate research that offers a <span style="color:#bbdefb;">new understanding</v>, <span style="color:#bbdefb;">insight</span> ✨ or <span style="color:#bbdefb;">connection</span> across branches of research or fields in <span style="color:#bbdefb;">a unifying truth</span> 🤯. 
+Appreciate research that offers a <span style="color:#bbdefb;">new understanding</span>, <span style="color:#bbdefb;">insight</span> ✨ or <span style="color:#bbdefb;">connection</span> across branches of research or fields in <span style="color:#bbdefb;">a unifying truth</span> 🤯. 
 
 
 _________________________________________________________________
