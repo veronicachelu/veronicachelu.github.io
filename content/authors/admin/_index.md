@@ -101,7 +101,7 @@ _________________________________________________________________
 _________________________________________________________________
 
 
-🧑‍🔬 Broadly, my research focuses on <i style="color:#00a8e8;">designing algorithms</i> 👾 that <i style="color:#00a8e8;">learn</i> from <i style="color:#00a8e8;">trial-and-error</i> <i style="color:#00a8e8;">interactive experience</i> with an <i style="color:#00a8e8;">environment</i> by building <i style="color:#00a8e8;">internal representations</i>, which they can leverage to <i style="color:#00a8e8;">plan, act and adapt</i> with efficiency.
+🧑‍🔬 Broadly, my research focuses on <i style="color:#00a8e8;">designing algorithms</i> 👾 that <i style="color:#00a8e8;">learn</i> from <i style="color:#00a8e8;">trial-and-error</i> <i style="color:#00a8e8;">interactive experience</i> with an <i style="color:#00a8e8;">environment</i> by leveraging <i style="color:#00a8e8;">internal representations</i> to <i style="color:#00a8e8;">plan, act and adapt</i> with efficiency.
 
 Primarily, I work with the <i style="color:#00a8e8;">reinforcement learning (RL)</i> problem, but use tools and perspectives from <i style="color:#00a8e8;">neuroscience</i>, <i style="color:#00a8e8;">optimization</i>, <i style="color:#00a8e8;">dynamical systems</i> and understandings from other <i style="color:#00a8e8;">cognitive sciences</i>.
 
@@ -111,7 +111,9 @@ Primarily, I work with the <i style="color:#00a8e8;">reinforcement learning (RL)
 * <i style="color:#00a8e8;">*neuroscience*</i> 🧠---psychedelic research for neuroplasticity, psychopathology, study and understanding altered states of consciousness induced by meditation 🧘🏻‍♀️ and psychedelics 🌀.
 
 
-Fan of <i style="color:#00a8e8;">research mysteries</i> 🔮, and <i style="color:#00a8e8;">fundamental questions</i>; appreciate research that offers a <i style="color:#00a8e8;">new understanding</i>, <i style="color:#00a8e8;">insight</i> ✨, or <i style="color:#00a8e8;">connections</i> between seemingly disparate branches of research or accross fields in <i style="color:#00a8e8;">a unifying truth</i> 🤯. 
+Fan of <i style="color:#00a8e8;">research mysteries</i> 🔮 and <i style="color:#00a8e8;">fundamental questions</i>
+
+Appreciate research that offers a <i style="color:#00a8e8;">new understanding</i>, <i style="color:#00a8e8;">insight</i> ✨ or <i style="color:#00a8e8;">connections</i> across branches of research or fields in <i style="color:#00a8e8;">a unifying truth</i> 🤯. 
 
 
 _________________________________________________________________
