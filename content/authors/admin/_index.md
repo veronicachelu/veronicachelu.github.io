@@ -105,7 +105,7 @@ _________________________________________________________________
 
 
 
-Broadly, <span style="color:#00a8e8;">my research</span> focuses on <span style="color:#bbdefb;">designing algorithms</span> that <span style="color:#bbdefb;">learn</span> from <span style="color:#bbdefb;">trial-and-error</span> <span style="color:#bbdefb;">interactive experience</span> with an <span style="color:#bbdefb;">environment</span> by leveraging <span style="color:#bbdefb;">internal representations</span> to <span style="color:#bbdefb;">plan, act and adapt</span> with efficiency.
+Broadly, my <span style="color:#EF8371;">research</span> focuses on <span style="color:#bbdefb;">designing algorithms</span> that <span style="color:#bbdefb;">learn</span> from <span style="color:#bbdefb;">trial-and-error</span> <span style="color:#bbdefb;">interactive experience</span> with an <span style="color:#bbdefb;">environment</span> by leveraging <span style="color:#bbdefb;">internal representations</span> to <span style="color:#bbdefb;">plan, act and adapt</span> with efficiency.
 
 Primarily, I work with the <span style="color:#bbdefb;">reinforcement learning (RL)</span> problem, but use tools and perspectives from <span style="color:#bbdefb;">neuroscience</span>, <span style="color:#bbdefb;">optimization</span>, <span style="color:#bbdefb;">dynamical systems</spani> and understandings from other <span style="color:#bbdefb;">cognitive sciences</span>.
 

@@ -82,11 +82,11 @@ sections:
     content:
       title: Research overview
       text: |-
-        >I'm currently focusing on 🤖 *acceleration for policy optimization* in RL using *adaptivity* and *optimistic gradient predictions/perturbations*, and 🧠 *computational models* of *psychedelic* action.
+        I'm currently focusing on 🤖 <span style="color: #EF8371;">acceleration for policy optimization in RL</span> using <span style="color: #bbdefb;">adaptivity</span> and <span style="color: #bbdefb;">optimistic gradient predictions/perturbations</span>, and 🧠 <span style="color: #EF8371;">computational models</span> of <span style="color: #bbdefb;">psychedelic action</span>.
 
-         Previously, I studied *credit assignment* in *value-based agents*, focusing on questions related to how agents should *model the environments* they interact with, whether that be in *anticipation* using *forethought*, or *retrospectively* using *hindsight* models and *backward looking mechanisms for adaptivity*. 
+        >Previously, I studied <span style="color: #bbdefb;">credit assignment</span> in <span style="color: #bbdefb;">value-based agents</span>, focusing on questions related to how agents should <span style="color: #bbdefb;">model the environments</span> they interact with, whether that be in <span style="color: #bbdefb;">anticipatio</span> using <span style="color: #bbdefb;">forethought</span>, or <span style="color: #bbdefb;">retrospectively</span> using <span style="color: #bbdefb;">hindsight</span> models and <span style="color: #bbdefb;">backward looking mechanisms for adaptivity</span>. 
 
-         I then showed how these models can be extended to include *selectivity* via simple contextual *attention*-based mechanisms and learn those from experience.
+        >I then showed how these models can be extended to include <span style="color: #bbdefb;">selectivity</span> via simple contextual <span style="color: #bbdefb;">attention</span>-based mechanisms and learn those from experience.
 
    # <a href="uploads/research_statement.pdf/" style="text-decoration: none">Research statement <i class="fas fa-file-lines"></i></a>
   - block: experience

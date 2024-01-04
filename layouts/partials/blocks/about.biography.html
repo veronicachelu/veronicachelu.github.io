@@ -40,7 +40,7 @@
 {{with site.Params.header.image.height}}height="{{.}}"{{end}}> -->
 <div class="row">
  <!-- style="background-image: url({{ $logo.RelPermalink }});background-repeat: no-repeat;background-position: 100% 0%;"> -->
-  <div class="col-12 col-lg-4">
+  <div class="col-12 col-lg-4", style="color: #EF8371">
     <div id="profile">
 
       {{ if site.Params.features.avatar.gravatar }}
@@ -119,7 +119,7 @@
     <!-- </a> -->
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    <div >{{ with $block.content.title }}<h1 style="color: #00a8e8;">{{ . | markdownify | emojify }}</h1>{{ end }}</div>
+    <div >{{ with $block.content.title }}<h1 style="color: #EF8371;">{{ . | markdownify | emojify }}</h1>{{ end }}</div>
 
     {{ with $person_page.Content }}
     <div class="article-style" style="text-align: justify;max-width: 85%;">
