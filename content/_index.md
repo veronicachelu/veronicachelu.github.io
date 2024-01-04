@@ -84,10 +84,9 @@ sections:
       text: |-
         >I'm currently focusing on 🤖 *acceleration for policy optimization* in RL using *adaptivity* and *optimistic gradient predictions/perturbations*, and 🧠 *computational models* of *psychedelic* action.
 
-        * Previously, I studied *credit assignment* in *value-based agents*, focusing on questions related to how agents should *model the environments* they interact with, whether that be in *anticipation* using *forethought*, or *retrospectively* using *hindsight* models and *backward looking mechanisms for adaptivity*. 
+         Previously, I studied *credit assignment* in *value-based agents*, focusing on questions related to how agents should *model the environments* they interact with, whether that be in *anticipation* using *forethought*, or *retrospectively* using *hindsight* models and *backward looking mechanisms for adaptivity*. 
 
-
-        * I then showed how these models can be extended to include *selectivity* via simple contextual *attention*-based mechanisms and learn those from experience.
+         I then showed how these models can be extended to include *selectivity* via simple contextual *attention*-based mechanisms and learn those from experience.
 
    # <a href="uploads/research_statement.pdf/" style="text-decoration: none">Research statement <i class="fas fa-file-lines"></i></a>
   - block: experience
