@@ -5,23 +5,27 @@
     font-weight: normal
 }
 
-.site-title {
+.dark #navbar-main .main-menu-item ul li .nav-link {
+  color: #00a8e8;
+}
+.dark .site-title {
   font-size: 18px;
   font-weight: normal;
-  color: #1565c0;
+  color: #00a8e8;
 }
 
-.navbar-light .navbar-brand {
+.dark .navbar-brand {
   font-size: 22px;
   font-weight: normal;
-  color: #1565c0;
+  color: #00a8e8;
 }
-.hero-title {
+
+.dark .hero-title {
     font-size: 18px;
     font-weight: normal;
-    color: #1565c0;
+    color: #00a8e8;
 }
-.hero-lead {
+.dark .hero-lead {
     font-size: 1rem;
 }
 
@@ -74,7 +78,7 @@
 nav#navbar-main li.nav-item {
   font-size: 18px;
   font-weight: normal;
-  color: #1565c0;
+  color: #00a8e8;
 }
 
 // .portrait-title h2 {
@@ -87,10 +91,10 @@ nav#navbar-main li.nav-item {
 .section-heading h1 {
   font-size: 20px;
   font-weight: normal;
-  color: #1565c0;
+  color: #00a8e8;
 }
 
 h1 {
   font-size: 20px;
-    color: #1565c0;
+    color: #00a8e8;
 }

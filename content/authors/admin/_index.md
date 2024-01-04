@@ -24,6 +24,10 @@ whoami: |-
   ______
   meditator, yogi, acrobat, earthling
 
+other:  |-
+  ______
+  🧑🏻‍🎓 <i style="color:#00a8e8;">Ph.D student</i> in the <a href="https://rl.cs.mcgill.ca/">Reasoning and Learning Lab</a> at <a href="https://www.cs.mcgill.ca/">McGill University, School of Computer Science</a> & <a href="https://mila.quebec/en/mila/">Mila, Quebec AI Institute</a>, supervised by <a href="https://cs.mcgill.ca/~dprecup/">Doina Precup</a>. 
+
 # # Status emoji
 status:
   icon: ☕️
@@ -41,13 +45,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD in Computer Science (AI/RL/neuro)
       institution: McGill University / Mila Quebec AI Institute
       year: 2019-present
-    - course: M.Sc in Computer Science
+    - course: M.Sc in Computer Science (AI)
       institution: University Politehnica of Bucharest
       year: 2013
-    - course: B.Sc in Computer Science
+    - course: B.Sc in Computer Science (math/CS)
       institution: University Politehnica of Bucharest
       year: 2009
  
@@ -89,18 +93,25 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Don't hesitate to reach out if you want to chat about research! Schedule a meeting <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #FFFFFF;"></i></a>
-____________________________________________________________________________________
-> 🧑🏻‍🎓 I am a Ph.D student in the Reasoning and Learning Lab at McGill University and Mila, Montreal, supervised by <a href="https://cs.mcgill.ca/~dprecup/">Doina Precup</a>. 
+>Don't hesitate to reach out if you want to <i style="color:#00a8e8;">chat about research</i>
+>Schedule a <i style="color:#00a8e8;">meeting</i> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a>
 _________________________________________________________________
-🧑‍🔬 Broadly, my research focuses on designing algorithms 👾 that learn from trial-and-error interactive experience with an environment by building internal representations, which they can leverage to plan, act and adapt with efficiency.
+_________________________________________________________________
+_________________________________________________________________
+<br></br>
+🧑‍🔬 Broadly, my research focuses on <i style="color:#00a8e8;">designing algorithms</i> 👾 that <i style="color:#00a8e8;">learn</i> from <i style="color:#00a8e8;">trial-and-error</i> <i style="color:#00a8e8;">interactive experience</i> with an <i style="color:#00a8e8;">environment</i> by building <i style="color:#00a8e8;">internal representations</i>, which they can leverage to <i style="color:#00a8e8;">plan, act and adapt</i> with efficiency.
 
-Primarily work with the reinforcement learning problem, but use tools and perspectives from optimization, dynamical systems and understandings from cognitive science.
+Primarily, I work with the <i style="color:#00a8e8;">reinforcement learning (RL)</i> problem, but use tools and perspectives from <i style="color:#00a8e8;">neuroscience</i>, <i style="color:#00a8e8;">optimization</i>, <i style="color:#00a8e8;">dynamical systems</i> and understandings from other <i style="color:#00a8e8;">cognitive sciences</i>.
+<br></br>
+<br></br>
+(❔) Interested in <i style="color:#00a8e8;">questions</i> related to...
+* <i style="color:#00a8e8;">*AI*</i> 🤖---acceleration, adaptivity, plasticity and planning for lifelong learning;
+* <i style="color:#00a8e8;">*neuroscience*</i> 🧠---psychedelic research for neuroplasticity, psychopathology, study and understanding altered states of consciousness induced by meditation 🧘🏻‍♀️ and psychedelics 🌀.
+<br></br>
+Fan of <i style="color:#00a8e8;">research mysteries</i> 🔮, and <i style="color:#00a8e8;">fundamental questions</i>; appreciate research that offers a <i style="color:#00a8e8;">new understanding</i>, <i style="color:#00a8e8;">insight</i> ✨, or <i style="color:#00a8e8;">connections</i> between seemingly disparate branches of research or accross fields in <i style="color:#00a8e8;">a unifying truth</i> 🤯. 
+<br></br>
 _________________________________________________________________
-❔Interested in questions related to
-* *AI* 🤖---acceleration, adaptivity, plasticity and planning for lifelong learning
-* *neuroscience* 🧠---psychedelic research for neuroplasticity, psychopathology, study and understanding altered states of consciousness induced by meditation 🧘🏻‍♀️ and psychedelics 🌀.
 _________________________________________________________________
-Fan of research mysteries 🔮 and fundamental questions. Appreciate research that offers a new understanding, insight ✨, or connection between seemingly disparate branches of research or accross fields in a unifying truth 🤯. 
+_________________________________________________________________
 
 <!-- {style="text-align: justify;"} -->

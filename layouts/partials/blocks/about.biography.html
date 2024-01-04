@@ -53,8 +53,9 @@
       {{ end }}
 
       <div class="portrait-title">
-
-        <h2>
+        
+        {{ with $person.other }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+        <!-- <h2>
           {{- if $person.name_pronunciation -}}
             <ruby>
               <rb>{{ $person_page.Title }}</rb>
@@ -63,9 +64,9 @@
           {{- else -}}
             {{- $person_page.Title -}}
           {{- end -}}
-        </h2>
+        </h2> -->
 
-        {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+        <!-- {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
 
         {{ range $person.organizations }}
         <h3>
@@ -73,7 +74,7 @@
           <span>{{ .name }}</span>
           {{ if .url }}</a>{{ end }}
         </h3>
-        {{ end }}
+        {{ end }} -->
       </div>
 
       <ul class="network-icon" aria-hidden="true">
@@ -103,11 +104,11 @@
       font-weight: 300;
       color: rgba(100, 100, 100, 0.84);
       margin: 0 0 10px;">
-      </br>
-      
+      <!-- </br> -->
         {{ with $person.whoami }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
-
+      
+      
     </div>
   </div>
   <div class="col-12 col-lg-8">
@@ -118,10 +119,10 @@
     <!-- </a> -->
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ with $block.content.title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
+    <div >{{ with $block.content.title }}<h1 style="color: #00a8e8;">{{ . | markdownify | emojify }}</h1>{{ end }}</div>
 
     {{ with $person_page.Content }}
-    <div class="article-style" style="text-align: justify;max-width: 75%;">
+    <div class="article-style" style="text-align: justify;max-width: 85%;">
       {{ . }}
     </div>
     {{ end }}
