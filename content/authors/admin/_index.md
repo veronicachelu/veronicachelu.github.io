@@ -116,8 +116,9 @@ Currently interested in <span style="color:#00a8e8;">questions</span> related to
   * 🤖 acceleration, adaptivity, plasticity, planning for lifelong learning
 
   * 🧠 neuroplasticity, habitual or goal directed behavior, psychedelic research for
-    * psychopathology
-    * altered states of consciousness---meditation 🧘🏻‍♀️ and psychedelics 🌀
+    * therapeutic drug design, psychopathology
+    * study and understanding of altered states of consciousness
+      * via meditation 🧘🏻‍♀️ and/or psychedelics 🌀
 
 _________________________________________________________________
 

@@ -82,7 +82,7 @@ sections:
     content:
       title: Research overview
       text: |-
-        I'm currently focusing on 🤖 <span style="color: #EF8371;">acceleration for policy optimization in RL</span> using <span style="color: #bbdefb;">adaptivity</span> and <span style="color: #bbdefb;">optimistic gradient predictions/perturbations</span>, and 🧠 <span style="color: #EF8371;">computational models</span> of <span style="color: #bbdefb;">psychedelic action</span>.
+        I'm currently focusing on 🤖 <span style="color: #EF8371;">acceleration for policy optimization in RL</span> using <span style="color: #bbdefb;">adaptivity</span> and <span style="color: #bbdefb;">optimistic gradient predictions/perturbations</span> and 🧠 <span style="color: #EF8371;">computational models</span> of <span style="color: #bbdefb;">psychedelic action</span>.
 
         >Previously, I studied <span style="color: #bbdefb;">credit assignment</span> in <span style="color: #bbdefb;">value-based agents</span>, focusing on questions related to how agents should <span style="color: #bbdefb;">model the environments</span> they interact with, whether that be in <span style="color: #bbdefb;">anticipation</span> using <span style="color: #bbdefb;">forethought</span>, or <span style="color: #bbdefb;">retrospectively</span> using <span style="color: #bbdefb;">hindsight</span> models and <span style="color: #bbdefb;">backward looking mechanisms for adaptivity</span>. 
 
