@@ -99,9 +99,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
->Don't hesitate to reach out if you want to <span style="color:#bbdefb;">chat about research</span>. 
->
->Schedule a <span style="color:#bbdefb;">meeting</span>  <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a>
+>Don't hesitate to reach out if you want to <span style="color:#bbdefb;">chat about research   </span>
+<i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i>    Schedule a <span style="color:#bbdefb;">meeting</span> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a>
 _________________________________________________________________
 
 
@@ -118,7 +117,7 @@ Currently interested in <span style="color:#00a8e8;">questions</span> related to
   * 🧠 neuroplasticity, habitual or goal directed behavior, psychedelic research for
     * therapeutic drug design, psychopathology
     * study and understanding of altered states of consciousness
-      * via meditation 🧘🏻‍♀️ and/or psychedelics 🌀
+      * via meditation 🧘🏼‍♀️ and/or psychedelics 🌀
 
 _________________________________________________________________
 
