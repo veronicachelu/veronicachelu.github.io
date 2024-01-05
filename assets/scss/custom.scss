@@ -6,7 +6,7 @@
 }
 
 .dark #navbar-main .main-menu-item ul li .nav-link {
-  color: #3B82DB;
+  color: #00a8e8;
 }
 .dark .site-title {
   font-size: 18px;
@@ -26,8 +26,30 @@
   color: #EF8371;
 }
 
-.dark .section-subheading{
+.article-style aside, .alert-note {
+  color: #00a8e8;
+  background-color: #23252f;
+  border-color: #EF8371;
+}
+
+// .article-style aside p, div.alert {
+//   color: #EF8371;
+// }
+*::before {
   color: #EF8371;
+}
+
+
+.experience .m-2 .border, .experience .col.border-right {
+  border-color: #C77541!important;
+}
+// .dark .card-body{
+//   // color: #C77541;
+//   // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+// }
+.dark .section-subheading{
+  color: #00a8e8;
 }
 .navbar-light .navbar-brand:focus .navbar-brand:hover {
   font-size: 22px;
@@ -49,7 +71,7 @@
 .dark .hero-title {
     font-size: 18px;
     font-weight: normal;
-    color: #3B82DB;
+    color: #00a8e8;
 }
 .dark .hero-lead {
     font-size: 1rem;
@@ -104,7 +126,7 @@
 nav#navbar-main li.nav-item {
   font-size: 18px;
   font-weight: normal;
-  color: #3B82DB;
+  color: #00a8e8;
 }
 
 // .portrait-title h2 {
@@ -117,10 +139,10 @@ nav#navbar-main li.nav-item {
 .section-heading h1 {
   font-size: 20px;
   font-weight: normal;
-  color: #3B82DB;
+  color: #00a8e8;
 }
 
 h1 {
   font-size: 20px;
-    color: #3B82DB;
+    color: #00a8e8;
 }
