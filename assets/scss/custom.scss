@@ -14,17 +14,17 @@
   color: #EF8371;
 }
 
-.dark .navbar-brand .navbar-brand:focus .navbar-brand:hover {
-  font-size: 22px;
-  font-weight: normal;
-  color: #EF8371;
-}
+// .dark .navbar-brand .navbar-brand:focus .navbar-brand:hover {
+//   font-size: 22px;
+//   font-weight: normal;
+//   color: #EF8371;
+// }
 
-.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-  font-size: 22px;
-  font-weight: normal;
-  color: #EF8371;
-}
+// .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+//   font-size: 22px;
+//   font-weight: normal;
+//   color: #EF8371;
+// }
 
 .article-style aside, .alert-note {
   color: #00a8e8;
@@ -51,17 +51,52 @@
 .dark .section-subheading{
   color: #00a8e8;
 }
-.navbar-light .navbar-brand:focus .navbar-brand:hover {
+// .navbar-light .navbar-brand:focus .navbar-brand:hover {
+//   font-size: 22px;
+//   font-weight: normal;
+//   color: #EF8371;
+// }
+// .navbar-light .navbar-brand {
+//   font-size: 22px;
+//   font-weight: normal;
+//   color: #EF8371;
+// }
+// .navbar-light .navbar-brand:focus .navbar-brand:hover {
+//   font-size: 22px;
+//   font-weight: normal;
+//   color: #EF8371;
+// }
+.dark a:not(.btn):hover, .dark a:not(.btn):focus{ 
+  // font-size: 22px;
+  // font-weight: normal;
+  color: #00a8e8;
+  text-decoration: none;
+}
+.dark #navbar-main .main-menu-item ul li .nav-link a:not(.btn):focus{
+  color: #EF8371;
+}
+
+.dark #navbar-main .main-menu-item ul li .nav-link:hover {
+  // font-size: 22px;
+  // font-weight: normal;
+  text-decoration: none;
+  color: #EF8371;
+}
+
+.dark .mytitle .navbar-brand:focus .navbar-brand:hover {
+  // font-size: 22px;
+  // font-weight: normal;
+  text-decoration: none;
+  color: #00a8e8;
+}
+
+.dark .navbar-brand {
   font-size: 22px;
   font-weight: normal;
   color: #EF8371;
 }
-.navbar-light .navbar-brand {
-  font-size: 22px;
-  font-weight: normal;
-  color: #EF8371;
-}
-.navbar-light .navbar-brand:focus .navbar-brand:hover {
+
+.dark .mytitle .navbar-brand:focus .navbar-brand:hover {
   font-size: 22px;
   font-weight: normal;
   color: #EF8371;
@@ -77,10 +112,10 @@
     font-size: 1rem;
 }
 
-.article-style {
-  // margin: 0 0 0 -50px;
-  max-width: 95%;
-}
+// .article-style {
+//   // margin: 0 0 0 -50px;
+//   // max-width: 95%;
+// }
 // .home-section-bg.bg-image {
 //   background-position-x: 85%;
 //   background-position-y: 35%;

@@ -17,21 +17,25 @@
   <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
     <div class="container-xl">
 
-      {{if $show_logo}}
-      <div class="d-none d-lg-inline-flex">
+      <!-- {{if $show_logo}} -->
+      <!-- <div class="d-none d-lg-inline-flex">
         <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
-<!--           {{- if $has_logo -}}
+           {{- if $has_logo -}}
             <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
             {{with site.Params.header.image.width}}width="{{.}}"{{end}}
             {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
           {{- else -}} -->
-            {{- site.Title -}}
+            <!-- {{- site.Title -}} -->
 <!--           {{- end -}} -->
           <!-- <li class="nav-item"> -->
-        </a>
-      </div>
-      <span class="navbar-brand portrait-title site-title">{{ site.Title }}</span>
-      {{end}}
+        <!-- </a> -->
+      <!-- </div> --> 
+      <div class="d-none d-lg-inline-flex">
+        <!-- <span class="navbar-brand portrait-title site-title"> -->
+          <a class="navbar-brand mytitle" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+        <!-- </span> -->
+    </div>
+      <!-- {{end}} -->
 
       {{ if site.Menus.main }}
       <button type="button" class="navbar-toggler" data-toggle="collapse"
@@ -43,7 +47,7 @@
       {{if $show_logo}}
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
         <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
-        {{- if $has_logo -}}
+        <!-- {{- if $has_logo -}} -->
 <!--           <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
           {{with site.Params.header.image.width}}width="{{.}}"{{end}}
           {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
