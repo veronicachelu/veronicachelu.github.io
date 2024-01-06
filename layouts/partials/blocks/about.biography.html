@@ -112,11 +112,12 @@
     </div>
   </div>
   <div class="col-12 col-lg-8" style="text-align: justify;">
+  <!-- </div>background-image: url('{{ $logo.RelPermalink }}');"> -->
     
-    <!-- </div>, style="background-image: url('{{ $logo.RelPermalink }}');> -->
-    <!-- <a class="background-img" href="#img1"> -->
-    <!-- <img id="img1" src="{{ $logo.RelPermalink }}" /> -->
-    <!-- </a> -->
+    <!-- </div>, style="background-image: url('{{ $logo.RelPermalink }}');>  -->
+    <!-- <a class="background-img" href="#img1">
+    <img id="img1" src="../../../assets/media/bird_eyes2.svg" />
+    </a> -->
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
     <div >{{ with $block.content.title }}<h1 style="color: #EF8371;">{{ . | markdownify | emojify }}</h1>{{ end }}</div>
