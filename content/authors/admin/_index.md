@@ -121,7 +121,7 @@ This pursuit inspires my <span style="color:#EF8371;">research</span> spanning <
 
 <!-- I focuses on <span style="color:#bbdefb;">designing algorithms</span> that <span style="color:#bbdefb;">learn</span> from <span style="color:#bbdefb;">trial-and-error</span> <span style="color:#bbdefb;">interactive experience</span> with an <span style="color:#bbdefb;">environment</span> by leveraging <span style="color:#bbdefb;">internal representations</span> to <span style="color:#bbdefb;">plan, act and adapt</span> with efficiency. -->
 
-Primarily, I work with the <span style="color:#bbdefb;">reinforcement learning </span> problem from an <span style="color:#bbdefb;">optimization</span> viewpoint, which has applications in <span style="color:#bbdefb;">computational neuroscience</span> and understanding of neural processes, using tools and perspectives from <span style="color:#bbdefb;">mathematics</span>, <span style="color:#bbdefb;">statistics</span>. <span style="color:#bbdefb;">dynamical systems</span> and understandings from other <span style="color:#bbdefb;">cognitive sciences</span>.
+Primarily, I work with the <span style="color:#bbdefb;">reinforcement learning </span> problem from an <span style="color:#bbdefb;">optimization</span> viewpoint, which has applications in <span style="color:#bbdefb;">computational neuroscience</span> and understanding of neural processes, using tools and perspectives from <span style="color:#bbdefb;">mathematics</span>, <span style="color:#bbdefb;">statistics</span>, <span style="color:#bbdefb;">dynamical systems</span> and understandings from other <span style="color:#bbdefb;">cognitive sciences</span>.
 
 
 Currently interested in <span style="color:#00a8e8;">questions</span> related to...
