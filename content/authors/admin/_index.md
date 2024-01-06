@@ -126,10 +126,10 @@ Primarily, I work with the <span style="color:#bbdefb;">reinforcement learning <
 
 Currently interested in <span style="color:#00a8e8;">questions</span> related to...
 
-  * 🤖 acceleration, adaptivity, plasticity, planning for lifelong learning in AI agents
+  * 🤖 lifelong learning in AI agents via acceleration, adaptivity, plasticity, planning
 
-  * 🧠 neuroplasticity, habitual or goal directed behavior, psychedelic research for
-    * therapeutic drug design and psychopathology ⚗️
+  * 🧠 neuroscience of habitual or goal directed behavior, neuroplasticity
+    * psychedelic research for therapeutic drug design and psychopathology ⚗️
     * study and understanding of altered states of consciousness 👁️ 
       * via meditation 🧘🏼‍♀️ breathwork 🌬️ and/or psychedelics 🌀
 
