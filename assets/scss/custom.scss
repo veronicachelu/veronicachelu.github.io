@@ -140,6 +140,19 @@
     bottom: 70px;
   }
 }
+.card-body {
+  background-color: #23252f;
+}
+.experience .card {
+  border: 1px solid rgba(239, 131, 113, 0.125);
+  // border: 1px solid rgba(0, 168, 232, 0.125);
+}
+
+#accomplishments .card {
+  // border: 1px solid rgba(239, 131, 113, 0.125);
+  border: 1px solid rgba(0, 168, 232, 0.125);
+}
+
 //   background-image: url("../background.jpg");
 // }
 // .wg-about .background-img {
@@ -181,3 +194,10 @@ h1 {
   font-size: 20px;
     color: #00a8e8;
 }
+// .card-body2">
+// {
+//   color: #00a8e8!important;
+// }
+// .dark .experience  {
+//   color: #00a8e8!important;
+// }
