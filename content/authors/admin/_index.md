@@ -113,11 +113,15 @@ highlight_name: true
 <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i>    Schedule a <span style="color:#bbdefb;">meeting</span> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a>
 _________________________________________________________________
 
+<span><i class="fas fa-angle-right" style="color: #EF8371!IMPORTANT;"></i><i class="fas fa-angle-right" style="color: #EF8371!IMPORTANT;"></i><i class="fas fa-angle-right" style="color: #EF8371!IMPORTANT;"></i><span style="color:#00a8e8;"> All our experience and contribution to the world is the process, the result, the very essence of our minds.</span><i class="fas fa-angle-left" style="color: #EF8371;"></i><i class="fas fa-angle-left" style="color: #EF8371;"></i><i class="fas fa-angle-left" style="color: #EF8371;"></i></span>
+_________________________________________________________________
+<span> Personally, I am interested in the study of cognition in humans 🧠 and machines 🤖. 
 
+This pursuit inspires my <span style="color:#EF8371;">research</span> spanning <span style="color:#bbdefb;">reinforcement learning</span>, <span style="color:#bbdefb;">deep learning</span>, <span style="color:#bbdefb;">optimization</span> and <span style="color:#bbdefb;">computational neuroscience</span>.</span>
 
-Broadly, my <span style="color:#EF8371;">research</span> focuses on <span style="color:#bbdefb;">designing algorithms</span> that <span style="color:#bbdefb;">learn</span> from <span style="color:#bbdefb;">trial-and-error</span> <span style="color:#bbdefb;">interactive experience</span> with an <span style="color:#bbdefb;">environment</span> by leveraging <span style="color:#bbdefb;">internal representations</span> to <span style="color:#bbdefb;">plan, act and adapt</span> with efficiency.
+<!-- I focuses on <span style="color:#bbdefb;">designing algorithms</span> that <span style="color:#bbdefb;">learn</span> from <span style="color:#bbdefb;">trial-and-error</span> <span style="color:#bbdefb;">interactive experience</span> with an <span style="color:#bbdefb;">environment</span> by leveraging <span style="color:#bbdefb;">internal representations</span> to <span style="color:#bbdefb;">plan, act and adapt</span> with efficiency. -->
 
-Primarily, I work with the <span style="color:#bbdefb;">reinforcement learning (RL)</span> problem, but use tools and perspectives from <span style="color:#bbdefb;">neuroscience</span>, <span style="color:#bbdefb;">optimization</span>, <span style="color:#bbdefb;">dynamical systems</spani> and understandings from other <span style="color:#bbdefb;">cognitive sciences</span>.
+Primarily, I work with the <span style="color:#bbdefb;">reinforcement learning </span> problem from an <span style="color:#bbdefb;">optimization</span> viewpoint, which has applications in <span style="color:#bbdefb;">computational neuroscience</span> and understanding of neural processes, using tools and perspectives from <span style="color:#bbdefb;">mathematics</span>, <span style="color:#bbdefb;">statistics</span>. <span style="color:#bbdefb;">dynamical systems</span> and understandings from other <span style="color:#bbdefb;">cognitive sciences</span>.
 
 
 Currently interested in <span style="color:#00a8e8;">questions</span> related to...
