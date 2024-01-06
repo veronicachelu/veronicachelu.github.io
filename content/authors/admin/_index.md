@@ -22,7 +22,7 @@ organizations:
 
 whoami: |-
   _____
-  meditator, yogi, acrobat, earthling
+  meditator, yogi, acrobat, self-taught, earthling
 
 other:  |-
    <i style="color:#00a8e8;">Ph.D candidate</i>
@@ -120,20 +120,20 @@ Broadly, my <span style="color:#EF8371;">research</span> focuses on <span style=
 Primarily, I work with the <span style="color:#bbdefb;">reinforcement learning (RL)</span> problem, but use tools and perspectives from <span style="color:#bbdefb;">neuroscience</span>, <span style="color:#bbdefb;">optimization</span>, <span style="color:#bbdefb;">dynamical systems</spani> and understandings from other <span style="color:#bbdefb;">cognitive sciences</span>.
 
 
-Currently interested in <span style="color:#00a8e8;">questions</span> related to
+Currently interested in <span style="color:#00a8e8;">questions</span> related to...
 
   * 🤖 acceleration, adaptivity, plasticity, planning for lifelong learning
 
   * 🧠 neuroplasticity, habitual or goal directed behavior, psychedelic research for
-    * therapeutic drug design, psychopathology
-    * study and understanding of altered states of consciousness
-      * via meditation 🧘🏼‍♀️ and/or psychedelics 🌀
+    * therapeutic drug design and psychopathology ⚗️
+    * study and understanding of altered states of consciousness 👁️ 
+      * via meditation 🧘🏼‍♀️ breathwork 🌬️ and/or psychedelics 🌀
 
 _________________________________________________________________
 
 Fan of <span style="color:#bbdefb;">research mysteries</span> 🔮 and <span style="color:#bbdefb;">fundamental questions 🦄</span>
 
-Appreciate research that offers a <span style="color:#bbdefb;">new understanding 💡</span> <span style="color:#bbdefb;">insight</span> ✨ or <span style="color:#bbdefb;">connection 👁️ </span> across branches of research or fields in <span style="color:#bbdefb;">a unifying truth</span> 🤯
+Appreciate research that offers a <span style="color:#bbdefb;">new understanding 💡</span> <span style="color:#bbdefb;">insight</span> ✨ or <span style="color:#bbdefb;">connection 🕸️ </span> across branches of research or fields in <span style="color:#bbdefb;">a unifying truth</span> 🤯
 
 
 _________________________________________________________________
