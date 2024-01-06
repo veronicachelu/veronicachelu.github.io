@@ -42,11 +42,18 @@ bio: 'I’m a Ph.D. student in the Reasoning and Learning Lab at McGill Universi
 
 # Interests to show in About widget
 interests: 
-  - reinforcement learning, policy optimization
-  - deep/online/lifelong learning
-  - neuroscience, psychedelic research
-  - altered states of consciousness
-  - causality
+  - interest: reinforcement learning/policy optimization
+    type: 1
+  - interest: deep/online/lifelong learning
+    type: 5
+  - interest: computational neuroscience
+    type: 2
+  - interest: psychedelic research
+    type: 8
+  - interest: altered states of consciousness
+    type: 4
+  - interest: causality
+    type: 3
 
 # Education to show in About widget
 education:
@@ -54,12 +61,15 @@ education:
     - course: PhD in Computer Science (AI/RL/neuro)
       institution: McGill University / Mila Quebec AI Institute
       year: 2019-present
+      type: 1
     - course: M.Sc in Computer Science (AI)
       institution: University Politehnica of Bucharest
       year: 2013
+      type: 2
     - course: B.Sc in Computer Science (math/CS)
       institution: University Politehnica of Bucharest
       year: 2009
+      type: 3
  
 
 # Social/Academic Networking
@@ -121,9 +131,9 @@ Currently interested in <span style="color:#00a8e8;">questions</span> related to
 
 _________________________________________________________________
 
-Fan of <span style="color:#bbdefb;">research mysteries</span> 🔮 and <span style="color:#bbdefb;">fundamental questions</span>.
+Fan of <span style="color:#bbdefb;">research mysteries</span> 🔮 and <span style="color:#bbdefb;">fundamental questions 🦄</span>
 
-Appreciate research that offers a <span style="color:#bbdefb;">new understanding</span>, <span style="color:#bbdefb;">insight</span> ✨ or <span style="color:#bbdefb;">connection</span> across branches of research or fields in <span style="color:#bbdefb;">a unifying truth</span> 🤯. 
+Appreciate research that offers a <span style="color:#bbdefb;">new understanding 💡</span> <span style="color:#bbdefb;">insight</span> ✨ or <span style="color:#bbdefb;">connection 👁️ </span> across branches of research or fields in <span style="color:#bbdefb;">a unifying truth</span> 🤯
 
 
 _________________________________________________________________

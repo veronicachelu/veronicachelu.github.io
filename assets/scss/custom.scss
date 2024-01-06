@@ -38,7 +38,30 @@
 *::before {
   color: #EF8371;
 }
+.fa-robot::before {
+  color: #00a8e8;
+}
+.fa-brain::before {
+  color: #00a8e8;
+}
+.fa-eye::before {
+  color: #00a8e8;
+}
 
+.fa-flask:before {
+  color: #00a8e8;
+}
+
+.fa-angle-double-right:before {
+  color: #00a8e8;
+}
+.fa-project-diagram::before {
+  color: #00a8e8;
+}
+
+.fa-hourglass-half::before {
+  color: #00a8e8;
+}
 
 .experience .m-2 .border, .experience .col.border-right {
   border-color: #C77541!important;
@@ -70,6 +93,9 @@
   // font-size: 22px;
   // font-weight: normal;
   color: #00a8e8;
+  text-decoration: none;
+}
+.course .card-subtitle a:focus{
   text-decoration: none;
 }
 .dark #navbar-main .main-menu-item ul li .nav-link a:not(.btn):focus{
@@ -176,6 +202,8 @@ nav#navbar-main li.nav-item {
   font-weight: normal;
   color: #00a8e8;
 }
+
+
 
 // .portrait-title h2 {
 //     font-family: "Lato", sans-serif;

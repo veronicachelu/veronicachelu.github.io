@@ -132,12 +132,29 @@
 
       {{ with $person.interests }}
       <div class="col-md-5">
-        <div class="section-subheading">{{ i18n "interests" | markdownify }}</div>
+        <div class="section-subheading", style="color: #EF8371;">{{ i18n "interests" | markdownify }}</div>
         <ul class="ul-interests fa-ul mb-0">
           {{ range . }}
           <li>
-            <i class="fa-li fa-solid fa-book"></i>
-            {{ . | markdownify | emojify }}
+            {{ if (eq .type  1)}}
+              <i class="fa-li fa-solid fas fa-robot" ></i>
+            {{ end }}
+            {{ if (eq .type 5)}}
+              <i class="fa-li fa-solid fas fa-hourglass-half"></i>
+            {{ end }}
+            {{ if (eq .type 8)}}
+              <i class="fa-li fa-solid fas fa-flask"></i>
+            {{ end }}
+            {{ if (eq .type  2)}}
+              <i class="fa-li fa-solid fas fa-brain"></i>
+            {{ end }}
+            {{ if (eq .type  4)}}
+              <i class="fa-li fa-solid fas fa-eye"></i>
+            {{ end }}
+            {{ if (eq .type  3)}}
+              <i class="fa-li fa-solid fas fa-project-diagram"></i>
+            {{ end }}
+            {{ .interest | markdownify | emojify }}
           </li>
           {{ end }}
         </ul>
@@ -146,15 +163,31 @@
 
       {{ with $person.education }}
       <div class="col-md-7">
-        <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
+        <div class="section-subheading", style="color: #00a8e8;">{{ i18n "education" | markdownify }}</div>
         <ul class="ul-edu fa-ul mb-0">
           {{ range .courses }}
           <li>
-            <i class="fa-li fa-solid fa-graduation-cap"></i>
+            {{ if (eq .type  1)}}
+              <i class="fa-li fa-solid fa-graduation-cap", style="font-size:16px;"></i>
+              <div class="description">
+                <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+                <p class="institution">{{ .institution }}</p>
+              </div>
+            {{ end }}
+            {{ if (eq .type  2)}}
+            <i class="fa-li fa-solid fa-graduation-cap", style="font-size:13px;"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
             </div>
+          {{ end }}
+          {{ if (eq .type  3)}}
+          <i class="fa-li fa-solid fa-graduation-cap", style="font-size:10px;"></i>
+          <div class="description">
+            <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+            <p class="institution">{{ .institution }}</p>
+          </div>
+        {{ end }}
           </li>
           {{ end }}
         </ul>
