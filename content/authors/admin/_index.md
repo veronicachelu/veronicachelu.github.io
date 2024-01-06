@@ -126,7 +126,7 @@ Primarily, I work with the <span style="color:#bbdefb;">reinforcement learning <
 
 Currently interested in <span style="color:#00a8e8;">questions</span> related to...
 
-  * 🤖 acceleration, adaptivity, plasticity, planning for lifelong learning
+  * 🤖 acceleration, adaptivity, plasticity, planning for lifelong learning in AI agents
 
   * 🧠 neuroplasticity, habitual or goal directed behavior, psychedelic research for
     * therapeutic drug design and psychopathology ⚗️
