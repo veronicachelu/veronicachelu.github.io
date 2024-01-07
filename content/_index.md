@@ -93,7 +93,7 @@ sections:
         # Text color (true=light, false=dark, or remove for the dynamic theme color).
         # text_color_light: dark
         image:
-          filename: stars8.svg
+          filename: starry.svg
         # gradient_end: '#1976d2'
         # gradient_start: '#004ba0'
         # text_color_light: true
