@@ -242,7 +242,7 @@ sections:
   #       # Text color (true=light, false=dark, or remove for the dynamic theme color).
   #       # text_color_light: dark
         image:
-          filename: eyes15.svg
+          filename: eyes_fin4.svg
   #       # gradient_end: '#1976d2'
   #       # gradient_start: '#004ba0'
   #       # text_color_light: true
@@ -306,7 +306,7 @@ sections:
   #       # Text color (true=light, false=dark, or remove for the dynamic theme color).
   #       # text_color_light: dark
         image:
-          filename: desert8.svg
+          filename: desert_final2.svg
   #       # gradient_end: '#1976d2'
   #       # gradient_start: '#004ba0'
   #       # text_color_light: true
