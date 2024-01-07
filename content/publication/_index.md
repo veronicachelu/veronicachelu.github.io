@@ -12,7 +12,8 @@ view: 4
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ''
-  image: eyes.svg
+  image: ''
+    # filename: eyes.svg
   # design:
   #     # Choose an optional background color, gradient, image, or video
   #     background:
