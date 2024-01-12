@@ -22,7 +22,17 @@ organizations:
 
 whoami: |-
   _____
-  meditator, yogi, acrobat, self-taught, earthling
+  meditator, yogi, amateur handbalancer/contortionist 
+
+whoami_really: |-
+  self-taught, earthling, hooooman
+
+quote: |-
+  _____
+  "If your mind is empty...it is open to everything.
+  In the beginner’s mind there are many possibilities, but in the expert’s mind there are few."
+
+  ---Shunryu Suzuki in "Zen Mind, Beginner’s Mind"
 
 other:  |-
    <i style="color:#00a8e8;">Ph.D candidate</i>
