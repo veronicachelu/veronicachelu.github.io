@@ -22,7 +22,7 @@ organizations:
 
 whoami: |-
   _____
-  meditator 🧘🏽‍♀️ | yogi 🤸🏽‍♀️ | self-taught
+  meditator 🧘🏽‍♀️ | yogi 🤸🏽‍♀️ | naïve artist 🎨 | self-taught
 
 whoami2: |-
   amateur handbalancer & contortionist 🎪
@@ -31,13 +31,16 @@ whoami_really: |-
   earthling 🪐 | hooooman 👽 | occasionally plant 🌱
 
 
+quote_title: |-
+  👁️‍🗨️ favorite piece of contemplative wisdom 👁️‍🗨️
+
 quote: |-
   _____
   "If your mind is empty...it is open to everything.
   </br>
   In the beginner’s mind there are many possibilities, but in the expert’s mind there are few."
 
-  ---Shunryu Suzuki in "Zen Mind, Beginner’s Mind"
+  ---Shunryu Suzuki, "Zen Mind, Beginner’s Mind"
 
 other:  |-
    <i style="color:#00a8e8;">Ph.D candidate</i>

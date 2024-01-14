@@ -140,12 +140,20 @@
         {{ with $person.whoami_really2 }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
 
+      <div class="quotetitle2", style="font-size: 0.9rem;
+        font-weight: 100;
+        color: #00a8e8;
+        /* text-align: justify; */
+        margin: 0 0 20px;">
+         </br> </br></br>
+        {{ with $person.quote_title }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
+      </div>
+      
       <div class="quote-title", style="font-size: 0.9rem;
         font-weight: 100;
         color: rgb(230,230,230, 0.64);
         /* color: #00a8e8; */
         margin: 0 0 20px;">
-        </br> </br></br>
           {{ with $person.quote }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
       
