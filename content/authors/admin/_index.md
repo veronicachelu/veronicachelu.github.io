@@ -40,6 +40,7 @@ quote: |-
   </br>
   In the beginner’s mind there are many possibilities, but in the expert’s mind there are few."
 
+quote_author: |-
   ---Shunryu Suzuki, "Zen Mind, Beginner’s Mind"
 
 other:  |-

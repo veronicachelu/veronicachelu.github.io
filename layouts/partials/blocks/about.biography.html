@@ -143,6 +143,7 @@
       <div class="quotetitle2", style="font-size: 0.85rem;
         font-weight: 100;
         color: #00a8e8;
+        text-align: center;
         /* text-align: justify; */
         margin: 0 0 20px;">
          </br> </br>
@@ -151,11 +152,15 @@
       
       <div class="quote-title", style="font-size: 0.85rem;
         font-weight: 100;
+        text-align: center;
         color: rgb(230,230,230, 0.64);
         /* color: #00a8e8; */
         margin: 0 0 20px;">
           {{ with $person.quote }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
+      <div class="quote-title2", style="font-size: 0.7rem;">
+          {{ with $person.quote_author }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
+    </div>
       
     </div>
   </div>

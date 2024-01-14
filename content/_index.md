@@ -3,7 +3,7 @@
 title:
 date: 2022-10-24
 type: landing
-
+id: home
 sections:
   # - block: hero
   #   content:
@@ -36,7 +36,7 @@ sections:
   #       gradient_start: '#004ba0'
   #       text_color_light: true
   - block: about.biography
-    id: about
+    id: home
     content:
       title: Hi 🖖🏽
       # Choose a user profile to display (a folder name within `content/authors/`)
