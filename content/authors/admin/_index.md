@@ -45,9 +45,9 @@ quote: |-
 other:  |-
    <i style="color:#00a8e8;">Ph.D candidate</i>
    
-   <span style="font-size: 0.9rem;color:rgba(150,150,150, 0.84);">🌀 <a href="https://rl.cs.mcgill.ca/">Reasoning and Learning Lab</a>, <a href="https://www.cs.mcgill.ca/">McGill University, School of Computer Science</a> </span>
-
-   <span style="font-size: 0.9rem;color:rgba(150,150,150, 0.84);">🌀 <a href="https://mila.quebec/en/mila/">Mila, Quebec AI Institute</a></span>
+   <span style="font-size: 0.9rem;color:rgba(150,150,150, 0.84);">🌀 <a href="https://rl.cs.mcgill.ca/">Reasoning and Learning Lab</a>,</br>  <a href="https://www.cs.mcgill.ca/">McGill University,
+   School of Computer Science</a> </br>
+   🌀 <a href="https://mila.quebec/en/mila/">Mila, Quebec AI Institute</a></span>
 
    <span style="font-size: 0.9rem;color:rgba(150,150,150, 0.84);">Supervised by <a href="https://cs.mcgill.ca/~dprecup/">Doina Precup</a>. </span>
 
