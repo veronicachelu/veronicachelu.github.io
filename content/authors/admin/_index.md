@@ -22,13 +22,13 @@ organizations:
 
 whoami: |-
   _____
-  meditator 🧘🏽‍♀️ | yogi 🤸🏽‍♀️ | naïve artist 🎨 | self-taught
+  meditator | yogi  | naïve artist | self-taught
 
 whoami2: |-
-  amateur handbalancer & contortionist 🎪
+  amateur handbalancer & contortionist 
 
 whoami_really: |-
-  earthling 🪐 | hooooman 👽 | occasionally plant 🌱
+  earthling | hooooman | occasionally plant 
 
 
 quote_title: |-
