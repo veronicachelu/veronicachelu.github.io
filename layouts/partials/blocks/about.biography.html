@@ -161,7 +161,16 @@
           {{ with $person.quote_author }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
     </div>
-      
+    <div class="quotetitle2", style="font-size: 0.85rem;
+        font-weight: 100;
+        color: #00a8e8;
+        text-align: center;
+        /* text-align: justify; */
+        margin: 0 0 20px;">
+         </br> </br>
+        {{ with $person.feedback }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
+      </div>
+    
     </div>
   </div>
   <div class="col-12 col-lg-8" style="text-align: justify;">

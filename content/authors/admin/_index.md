@@ -30,6 +30,10 @@ whoami2: |-
 whoami_really: |-
   earthling | hooooman | occasionally plant 
 
+feedback: |-
+  _____
+  <a href="https://www.admonymous.co/veronica"><i class="fas fa-comments"></i> give anonymous feedback 🙏🏽</a>
+
 
 quote_title: |-
   👁️‍🗨️ favorite piece of contemplative wisdom 👁️‍🗨️
