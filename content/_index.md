@@ -303,6 +303,7 @@ sections:
   #       # gradient_start: '#004ba0'
   #       # text_color_light: true
   - block: collection
+    id: all
     content:
       title: Recent Publications & Preprints
       text: |-

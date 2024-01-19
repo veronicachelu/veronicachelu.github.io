@@ -16,9 +16,12 @@ main:
   - name: Academic awards
     url: '#accomplishments'
     weight: 40
-  - name: Publications & Preprints
+  - name: Featured /
     url: '#featured'
     weight: 50
+  - name: Recent Publications & Preprints
+    url: '#all'
+    weight: 60
  
 
 # Link to a PDF of your resume/CV from the menu.

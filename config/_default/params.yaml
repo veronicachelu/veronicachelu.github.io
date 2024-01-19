@@ -38,7 +38,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Veronica Chelu'
+    notice: '© {year} Veronica Chelu.'
     license:
       enable: false
       allow_derivatives: false
