@@ -40,7 +40,7 @@
 {{with site.Params.header.image.height}}height="{{.}}"{{end}}> -->
 <div class="row">
  <!-- style="background-image: url({{ $logo.RelPermalink }});background-repeat: no-repeat;background-position: 100% 0%;"> -->
-  <div class="col-12 col-lg-4", style="color: #EF8371">
+  <div class="col-12 col-lg-4", style="color: #00a8e8">
     <div id="profile">
 
       {{ if site.Params.features.avatar.gravatar }}
@@ -94,7 +94,11 @@
         {{ end }}
         <li>
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            {{ if in (slice "ai") $pack }}
+              <i style="padding:5px;font-size:25px;" class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            {{else}}
+              <i style="padding:5px;font-size:20px;" class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+             {{ end }}
           </a>
         </li>
         {{ end }}

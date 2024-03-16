@@ -108,8 +108,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
+  - icon: paper-plane
+    icon_pack: fa
     link: 'mailto:veronica.chelu@mail.mcgill.ca'
   # - icon: twitter
   #   icon_pack: fab
@@ -117,16 +117,16 @@ social:
   #   label: Follow me on Twitter
     # display:
     #   header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=wSR6a3EAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
+  - icon: code-branch
+    icon_pack: fa
     link: https://github.com/veronicachelu
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: file-lines
+  - icon: file
     icon_pack: fas
     link: uploads/resume.pdf
 
@@ -158,23 +158,15 @@ I am currently interested in questions related to
 <!-- Currently interested in <span style="color:#EF8371;">questions</span> related to... -->
 <!-- * <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> 🤖 <span style="color:#EF8371;">(lifelong) learning in AI algorithms/agents</span> via <span style="color:#bbdefb;">acceleration</span>, <span style="color:#bbdefb;">adaptivity</span>, <span style="color:#bbdefb;">plasticity</span>, <span style="color:#bbdefb;">planning</span></span> -->
 
-  * <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> 🤖 <span style="color:#00a8e8;">lifelong learning in AI algorithms/agents</span> via <span style="color:white;">acceleration</span>, <span style="color:white;">adaptivity</span>, <span style="color:white;">plasticity</span>, <span style="color:white;">planning</span></span>
+<span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> 🤖 <span style="color:#00a8e8;">lifelong learning in AI algorithms/agents</span> via <span style="color:rgb(230,230,230, 0.84);">acceleration</span>, <span style="color:rgb(230,230,230, 0.84);">adaptivity</span>, <span style="color:rgb(230,230,230, 0.84);">plasticity</span>, <span style="color:rgb(230,230,230, 0.84);">planning</span></span>
 
-    <!-- * <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">theoretical and/or empirical </span> -->
-
-  * <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">🧠 <span style="color:#00a8e8;">neuroscience</span> of <span style="color:white;">habitual or goal directed behavior</span>, <span style="color:white;">neuroplasticity</span></span>
-
-    * <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"><span style="color:white;">psychedelic research</span> for therapeutic drug design ⚗️ </span>
-      * <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">for psychopathologies associated with cognitive inflexibility, plasticity loss</span>
-
-    * <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">study and understanding of <span style="color:white;">altered states of consciousness</span> 👁️ </span>
-      * <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">via meditation 🧘🏼‍♀️ breathwork 🌬️ and/or psychedelics 🌀</span>
+<span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">🧠 <span style="color:#00a8e8;">neuroscience</span> of <span style="color:rgb(230,230,230, 0.84);"> habitual or goal directed behavior, </span><span style="color:rgb(230,230,230, 0.84);">neuroplasticity, </span></span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"><span style="color:rgb(230,230,230, 0.84);">psychedelic research</span> for therapeutic drug design ⚗️ </span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">(psychopathologies associated with cognitive inflexibility, plasticity loss),</span><span style="font-size: 0.95rem;color:rgb(230,230,230, 0.84);"> study and understanding of <span style="color:rgb(230,230,230, 0.84);">altered states of consciousness</span> 👁️ ,</span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> via meditation 🧘🏼‍♀️ breathwork 🌬️ and/or psychedelics 🌀</span>
 
 _________________________________________________________________
 <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">
-Fan of <span style="color:white;">research mysteries</span> 🔮 and <span style="color:white;">fundamental questions 🦄</span>
+Fan of <span style="color:rgb(230,230,230, 0.84);">research mysteries</span> 🔮 and <span style="color:rgb(230,230,230, 0.84);">fundamental questions 🦄</span>
 
-<span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">Appreciate research that offers a <span style="color:white;">new understanding 💡</span> <span style="color:white;">insight</span> ✨ or <span style="color:white;">connection 🕸️ </span> across branches of research or fields in <span style="color:white;">a unifying truth</span> 🤯</span>
+<span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">Appreciate research that offers a <span style="color:rgb(230,230,230, 0.84);">new understanding 💡</span> <span style="color:rgb(230,230,230, 0.84);">insight</span> ✨ or <span style="color:rgb(230,230,230, 0.84);">connection 🕸️ </span> across branches of research or fields in <span style="color:rgb(230,230,230, 0.84);">a unifying truth</span> 🤯</span>
 
 
 _________________________________________________________________

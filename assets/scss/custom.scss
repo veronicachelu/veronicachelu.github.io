@@ -4,7 +4,9 @@
 * {
     font-weight: normal
 }
-
+body.dark{
+  color:rgba(230,230,230, 0.84);
+}
 .dark #navbar-main .main-menu-item ul li .nav-link {
   color: #00a8e8;
 }
@@ -12,6 +14,9 @@
   font-size: 18px;
   font-weight: normal;
   color: #EF8371;
+}
+.dark a{
+  color: rgba(230,230,230, 0.84);
 }
 
 
@@ -37,14 +42,15 @@
 //   color: #EF8371;
 // }
 *::before {
-  color: #EF8371;
+  // color: #EF8371;
+  color: #00a8e8;
 }
 .fa-robot::before {
   color: #00a8e8;
 }
 
 .big-icon {
-  font-size: 1.5rem; 
+  font-size: 1.2rem; 
 }
 .fa-brain::before {
   color: #00a8e8;
