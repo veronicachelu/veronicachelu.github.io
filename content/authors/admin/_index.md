@@ -136,9 +136,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-><span style="font-size: 0.9rem;">Don't hesitate to reach out if you want to <span style="color:#bbdefb;">chat about research   </span>
-<i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i>    Schedule a <span style="color:#bbdefb;">meeting</span> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a></span>
-_________________________________________________________________
+<div class="card-body experience inner">
+  <span style="font-size: 0.9rem;">Don't hesitate to reach out if you want to <span style="color:#bbdefb;">chat about research   </span>
+  <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i>    Schedule a <span style="color:#bbdefb;">meeting</span> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a></span>
+</div>
+<!-- _________________________________________________________________ -->
 
 <!-- <span style="font-size: 0.95rem;text-align: center;color:#00a8e8;padding-right:5%;padding-left:5%">All our experience and contribution to the world is the process, the result, the very essence of our minds.</span>
 <!-- <i class="fas fa-angle-left" style="color: #1600F8;"><<i class="fas fa-angle-left" style="color: #1600F8;"></i><i class="fas fa-angle-left" style="color: #1600F8;"></i> -->
@@ -147,13 +149,16 @@ _________________________________________________________________
   <!-- <div class=" text-center text-md-left" style="text-align: justify;margin-right: auto;margin-left: auto;">
       <h1 class="hero-title">Research Interests</h1>
   </div> -->
-I am interested in the study of cognition in <span style="color:#00a8e8;">humans 🧠</span> and <span style="color:#00a8e8;">machines 🤖</span>. 
+<div class="card-body experience inner">
+Broadly, I am interested in the study of cognition in <span style="color:#00a8e8;">humans 🧠</span> and <span style="color:#00a8e8;">machines 🤖.</span>
+</br>
 </br>
 <!-- My <span style="color:#EF8371;">research</span> spans <span style="color:#bbdefb;">reinforcement learning</span>, <span style="color:#bbdefb;">deep learning</span>, <span style="color:#bbdefb;">optimization</span> and <span style="color:#bbdefb;">computational neuroscience</span>.</span> -->
 My research spans reinforcement learning, deep learning, optimization and computational neuroscience.
 
 ><span style="font-size: 0.95rem;">Primarily, I work with the <span style="color:rgb(230,230,230, 0.84);"> (lifelong) reinforcement learning </span> problem from an <span style="color:rgb(230,230,230, 0.84);">optimization/deep-learning</span> viewpoint---which has applications in <span style="color:rgb(230,230,230, 0.84);">computational neuroscience</span> and understanding of <span style="color:rgb(230,230,230, 0.84);">neural processes</span>---using tools and perspectives from <span style="color:rgb(230,230,230, 0.84);">mathematics</span>, <span style="color:rgb(230,230,230, 0.84);">statistics</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span> and understandings from other <span style="color:rgb(230,230,230, 0.84);">cognitive sciences</span>.</span>
-
+</div>
+<div class="card-body experience inner">
 I am currently interested in questions related to
 <!-- Currently interested in <span style="color:#EF8371;">questions</span> related to... -->
 <!-- * <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> 🤖 <span style="color:#EF8371;">(lifelong) learning in AI algorithms/agents</span> via <span style="color:#bbdefb;">acceleration</span>, <span style="color:#bbdefb;">adaptivity</span>, <span style="color:#bbdefb;">plasticity</span>, <span style="color:#bbdefb;">planning</span></span> -->
@@ -161,15 +166,16 @@ I am currently interested in questions related to
 <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> 🤖 <span style="color:#00a8e8;">lifelong learning in AI algorithms/agents</span> via <span style="color:rgb(230,230,230, 0.84);">acceleration</span>, <span style="color:rgb(230,230,230, 0.84);">adaptivity</span>, <span style="color:rgb(230,230,230, 0.84);">plasticity</span>, <span style="color:rgb(230,230,230, 0.84);">planning</span></span>
 
 <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">🧠 <span style="color:#00a8e8;">neuroscience</span> of <span style="color:rgb(230,230,230, 0.84);"> habitual or goal directed behavior, </span><span style="color:rgb(230,230,230, 0.84);">neuroplasticity, </span></span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"><span style="color:rgb(230,230,230, 0.84);">psychedelic research</span> for therapeutic drug design ⚗️ </span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">(psychopathologies associated with cognitive inflexibility, plasticity loss),</span><span style="font-size: 0.95rem;color:rgb(230,230,230, 0.84);"> study and understanding of <span style="color:rgb(230,230,230, 0.84);">altered states of consciousness</span> 👁️ ,</span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> via meditation 🧘🏼‍♀️ breathwork 🌬️ and/or psychedelics 🌀</span>
-
-_________________________________________________________________
+</div>
+<!-- _________________________________________________________________ -->
+<div class="card-body experience inner">
 <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">
 Fan of <span style="color:rgb(230,230,230, 0.84);">research mysteries</span> 🔮 and <span style="color:rgb(230,230,230, 0.84);">fundamental questions 🦄</span>
 
 <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">Appreciate research that offers a <span style="color:rgb(230,230,230, 0.84);">new understanding 💡</span> <span style="color:rgb(230,230,230, 0.84);">insight</span> ✨ or <span style="color:rgb(230,230,230, 0.84);">connection 🕸️ </span> across branches of research or fields in <span style="color:rgb(230,230,230, 0.84);">a unifying truth</span> 🤯</span>
+</div>
 
-
-_________________________________________________________________
+<!-- _________________________________________________________________ -->
 
 
 <!-- {style="text-align: justify;"} -->
