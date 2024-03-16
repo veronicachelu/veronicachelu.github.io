@@ -162,17 +162,18 @@ My research spans reinforcement learning, deep learning, optimization and comput
 I am currently interested in questions related to
 <!-- Currently interested in <span style="color:#EF8371;">questions</span> related to... -->
 <!-- * <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> 🤖 <span style="color:#EF8371;">(lifelong) learning in AI algorithms/agents</span> via <span style="color:#bbdefb;">acceleration</span>, <span style="color:#bbdefb;">adaptivity</span>, <span style="color:#bbdefb;">plasticity</span>, <span style="color:#bbdefb;">planning</span></span> -->
-
-<span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> 🤖 <span style="color:#00a8e8;">lifelong learning in AI algorithms/agents</span> via <span style="color:rgb(230,230,230, 0.84);">acceleration</span>, <span style="color:rgb(230,230,230, 0.84);">adaptivity</span>, <span style="color:rgb(230,230,230, 0.84);">plasticity</span>, <span style="color:rgb(230,230,230, 0.84);">planning</span></span>
-
-<span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">🧠 <span style="color:#00a8e8;">neuroscience</span> of <span style="color:rgb(230,230,230, 0.84);"> habitual or goal directed behavior, </span><span style="color:rgb(230,230,230, 0.84);">neuroplasticity, </span></span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"><span style="color:rgb(230,230,230, 0.84);">psychedelic research</span> for therapeutic drug design ⚗️ </span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">(psychopathologies associated with cognitive inflexibility, plasticity loss),</span><span style="font-size: 0.95rem;color:rgb(230,230,230, 0.84);"> study and understanding of <span style="color:rgb(230,230,230, 0.84);">altered states of consciousness</span> 👁️ ,</span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> via meditation 🧘🏼‍♀️ breathwork 🌬️ and/or psychedelics 🌀</span>
+</br>
+<span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> 
+🤖 <span style="color:#00a8e8;">lifelong learning in AI algorithms/agents</span>-<span style="color:rgb(230,230,230, 0.84);">acceleration</span>, <span style="color:rgb(230,230,230, 0.84);">adaptivity</span>, <span style="color:rgb(230,230,230, 0.84);">plasticity</span>, <span style="color:rgb(230,230,230, 0.84);">planning</span>
+</br>
+🧠 <span style="color:#00a8e8;">neuroscience</span>-<span style="color:rgb(230,230,230, 0.84);">habitual or goal directed behavior, </span><span style="color:rgb(230,230,230, 0.84);">neuroplasticity, </span></span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"><span style="color:rgb(230,230,230, 0.84);">psychedelic research</span> for therapeutic drug design</span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">---psychopathologies associated with cognitive inflexibility, plasticity loss---</span><span style="font-size: 0.95rem;color:rgb(230,230,230, 0.84);">study & understanding of <span style="color:rgb(230,230,230, 0.84);">altered states of consciousness</span>,</span><span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);"> via meditation, breathwork, and/or psychedelics</span>
 </div>
 <!-- _________________________________________________________________ -->
 <div class="card-body experience inner">
 <span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">
 Fan of <span style="color:rgb(230,230,230, 0.84);">research mysteries</span> 🔮 and <span style="color:rgb(230,230,230, 0.84);">fundamental questions 🦄</span>
 
-<span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">Appreciate research that offers a <span style="color:rgb(230,230,230, 0.84);">new understanding 💡</span> <span style="color:rgb(230,230,230, 0.84);">insight</span> ✨ or <span style="color:rgb(230,230,230, 0.84);">connection 🕸️ </span> across branches of research or fields in <span style="color:rgb(230,230,230, 0.84);">a unifying truth</span> 🤯</span>
+<span style="font-size: 0.95rem;color:rgba(150,150,150, 0.84);">Appreciate research that offers a <span style="color:rgb(230,230,230, 0.84);">new understanding</span> <span style="color:rgb(230,230,230, 0.84);">insight</span> or <span style="color:rgb(230,230,230, 0.84);">connection</span> across branches of research or fields in <span style="color:rgb(230,230,230, 0.84);">a unifying truth</span></span>
 </div>
 
 <!-- _________________________________________________________________ -->
