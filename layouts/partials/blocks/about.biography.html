@@ -104,40 +104,40 @@
         {{ end }}
       </ul>
 
-      <div class="portrait-title", style="font-size: 0.9rem;
-      font-weight: 100;
+      <div class="portrait-title", style="
+      /* font-weight: 100; */
       color: rgba(100, 100, 100, 0.84);
       margin: 0 0 10px;">
       <!-- </br> -->
         {{ with $person.whoami }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
 
-      <div class="portrait-title", style="font-size: 0.9rem;
-      font-weight: 100;
+      <div class="portrait-title", style="
+      /* font-weight: 100; */
       color: rgba(100, 100, 100, 0.84);
       margin: 0 0 10px;">
       <!-- </br> -->
         {{ with $person.whoami2 }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
 
-      <div class="portrait-title", style="font-size: 0.9rem;
-      font-weight: 100;
+      <div class="portrait-title", style="
+      /* font-weight: 100; */
       color: rgba(100, 100, 100, 0.84);
       margin: 0 0 10px;">
       <!-- </br> -->
         {{ with $person.whoami3 }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
 
-      <div class="portrait-title", style="font-size: 0.85rem;
-      font-weight: 100;
+      <div class="portrait-title", style="
+      /* font-weight: 100; */
       color: rgba(100, 100, 100, 0.84);
       margin: 0 0 10px;">
       <!-- </br> -->
         {{ with $person.whoami_really }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
 
-      <div class="portrait-title", style="font-size: 0.85rem;
-      font-weight: 100;
+      <div class="portrait-title", style="
+      /* font-weight: 100; */
       color: rgba(100, 100, 100, 0.84);
       margin: 0 0 10px;">
       <!-- </br> -->
@@ -151,30 +151,37 @@
       </br>
         {{ with $person.humbled }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div> -->
+    </br> </br>
 
-      <div class="quotetitle2", style="font-size: 0.85rem;
-        font-weight: 100;
+      <div class="card-body experience inner">
+
+      <div class="quotetitle2", style="
+        /* font-weight: 100; */
         color: #00a8e8;
+        padding: 0px;
         text-align: center;
         /* text-align: justify; */
-        margin: 0 0 20px;">
-         </br> </br>
+        margin: 0 0 20px;
+        ">
+         <!-- </br> </br> -->
         {{ with $person.quote_title }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
       
-      <div class="quote-title", style="font-size: 0.85rem;
-        font-weight: 100;
+      <div class="quote-title", style="
+        /* font-weight: 100; */
         text-align: center;
         color: rgb(230,230,230, 0.64);
         /* color: #00a8e8; */
-        margin: 0 0 20px;">
+        margin: 0 0 20px;
+        ">
           {{ with $person.quote }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
-      <div class="quote-title2", style="font-size: 0.7rem;">
+      <div class="quote-title2">
           {{ with $person.quote_author }}<h7>{{ . | markdownify | emojify }}</h7>{{ end }}
       </div>
     </div>
-    <div class="quotetitle2", style="font-size: 0.85rem;
-        font-weight: 100;
+  </div>  
+    <div class="quotetitle2", style="
+        /* font-weight: 100; */
         color: #00a8e8;
         text-align: center;
         /* text-align: justify; */

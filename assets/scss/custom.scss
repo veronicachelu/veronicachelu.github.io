@@ -1,18 +1,35 @@
-*{
+body{
   word-wrap: break-word;
-  font-feature-settings: "kern","liga","clig","calt";
+  // font-feature-settings: "kern","liga","clig","calt";
   font-kerning: normal;
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 24px;
   // font-family: Gill Sans;
   font-family:'DM Sans', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Noto Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Twemoji Mozilla", "Android Emoji";
 }
-.dropdown-menu,
-* {
-    font-weight: normal
+// .dropdown-menu{
+//     font-weight: normal
+// }
+.portrait-title {
+  font-size: 14px!important;
 }
-
+.quotetitle2 {
+  font-size: 14px!important;
+}
+.quotetitle{
+  font-size: 12px!important;
+}
+.quote-title{
+  font-size: 12px!important;
+}
+hr {
+  border: none;
+  height: 0.1px;
+  /* Set the hr color */
+  color: rgba(0, 168, 232, 0.125);  /* old IE */
+  background-color: rgba(0, 168, 232, 0.125);  /* Modern Browsers */
+}
 
 // .dark .home-section {
 //   // background-color: #171719;
@@ -146,7 +163,7 @@ body.dark{
 // }
 // .dark .card-body{
 //   // color: #C77541;
-//   // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+//   // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 18px 0 rgba(0, 0, 0, 0.19);
   
 // }
 .dark .section-subheading{
@@ -168,7 +185,7 @@ body.dark{
 //   color: #EF8371;
 // }
 .dark a:not(.btn):hover, .dark a:not(.btn):focus{ 
-  // font-size: 22px;
+  // font-size: 16px;
   // font-weight: normal;
   color: #00a8e8;
   text-decoration: none;
@@ -181,27 +198,27 @@ body.dark{
 }
 
 .dark #navbar-main .main-menu-item ul li .nav-link:hover {
-  // font-size: 22px;
+  font-size: 18px;
   // font-weight: normal;
   text-decoration: none;
   color: #EF8371;
 }
 
 .dark .mytitle .navbar-brand:focus .navbar-brand:hover {
-  // font-size: 22px;
+  font-size: 18px;
   // font-weight: normal;
   text-decoration: none;
   color: #00a8e8;
 }
 
 .dark .navbar-brand {
-  font-size: 22px;
+  font-size: 18px;
   font-weight: normal;
   color: #EF8371;
 }
 
 .dark .mytitle .navbar-brand:focus .navbar-brand:hover {
-  font-size: 22px;
+  font-size: 18px;
   font-weight: normal;
   color: #EF8371;
 }
@@ -213,7 +230,7 @@ body.dark{
     color: #00a8e8;
 }
 .dark .hero-lead {
-    font-size: 0.9rem;
+    font-size: 16px;
     text-align: justify;
 }
 
@@ -244,6 +261,7 @@ body.dark{
   @media screen and (min-width: 768px) {
     bottom: 70px;
   }
+  
 }
 .card-body {
   background-color: #23252f;
@@ -292,13 +310,13 @@ nav#navbar-main li.nav-item {
 // }
 
 .section-heading h1 {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: normal;
   color: #00a8e8;
 }
 
 h1 {
-  font-size: 20px;
+  // font-size: 18px;
     color: #00a8e8;
 }
 
