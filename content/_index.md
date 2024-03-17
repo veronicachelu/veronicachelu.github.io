@@ -101,20 +101,20 @@ sections:
       title: Research overview
       text: |-
         <div class="card-body experience inner">
-        I'm currently focusing on 🤖 <span style="color: #EF8371;">acceleration for policy optimization in RL</span> and 🧠 <span style="color: #EF8371;">computational models</span> of <span style="color: #bbdefb;">psychedelic action</span>.
+        I'm currently focusing on 🤖 <span style="color: #EF8371;">acceleration for policy optimization in RL</span> and 🧠 <span style="color: #EF8371;">computational models of psychedelic action</span>.
         </div>
         <div class="card-body experience inner">
         
-        ><i class="fas fa-angle-right" style="color: #00a8e8;"></i> I previously explored the idea of <span style="color: #bbdefb;">anticipating the future</span> and <span style="color: #bbdefb;">adapting</span> to it, and  proposed a simple template for <span style="color: #bbdefb;">accelerating policy gradient algorithms</span> by integrating <span style="color: #bbdefb;">foresight</span> into the policy improvement step, via <span style="color: #bbdefb;">optimistic</span> and <span style="color: #bbdefb;">adaptive</span> policy updates. I defined <span style="color: #bbdefb;">optimism</span> as <span style="color: #bbdefb;">predictive modeling</span> of the future behavior of a policy, and <span style="color: #bbdefb;">adaptivity</span> as taking <span style="color: #bbdefb;">immediate</span> and <span style="color: #bbdefb;">anticipatory corrective actions</span> to mitigate accumulating errors from <span style="color: #bbdefb;">overshooting predictions</span> or <span style="color: #bbdefb;">delayed responses to change</span>. Currently, I am investigating acceleration within the <span style="color: #bbdefb;">Policy Mirror Descent (PMD) general family of algorithms</span>, which cover a wide range of novel and fundamental methods in reinforcement learning.
+        <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I previously explored the idea of <span class="highlight">anticipating the future</span> and <span class="highlight">adapting</span> to it, and  proposed a simple template for <span class="highlight">accelerating policy gradient algorithms</span> by integrating <span class="highlight">foresight</span> into the policy improvement step, via <span class="highlight">optimistic</span> and <span class="highlight">adaptive</span> policy updates. I defined <span class="highlight">optimism</span> as <span class="highlight">predictive modeling</span> of the future behavior of a policy, and <span class="highlight">adaptivity</span> as taking <span class="highlight">immediate</span> and <span class="highlight">anticipatory corrective actions</span> to mitigate accumulating errors from <span class="highlight">overshooting predictions</span> or <span class="highlight">delayed responses to change</span>. Currently, I am investigating acceleration within the <span class="highlight">Policy Mirror Descent (PMD) general family of algorithms</span>, which cover a wide range of novel and fundamental methods in reinforcement learning.
         
-        ><i class="fas fa-angle-right" style="color: #00a8e8;"></i> I also studied policy optimization as a joint-maximization problem and worked on a  <span style="color: #bbdefb;">surrogate policy learning objective for the joint maximization of a policy and its value-function</span>.
-        Practical implementations of policy-based algorithms rely on value-functions, represented as <span style="color: #bbdefb;">neural networks</span>, to compute the policy gradient, introducing challenges related to the  accuracy of the policy gradient, particularly in low-capacity regimes, characteristic of agents with <span style="color: #bbdefb;">bounded rationality</span>. 
+        <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I also studied policy optimization as a joint-maximization problem and worked on a  <span class="highlight">surrogate policy learning objective for the joint maximization of a policy and its value-function</span>.
+        Practical implementations of policy-based algorithms rely on value-functions, represented as <span class="highlight">neural networks</span>, to compute the policy gradient, introducing challenges related to the  accuracy of the policy gradient, particularly in low-capacity regimes, characteristic of agents with <span class="highlight">bounded rationality</span>. 
 
-        ><i class="fas fa-angle-right" style="color: #00a8e8;"></i> Previously, I studied <span style="color: #bbdefb;">credit assignment</span> in <span style="color: #bbdefb;">value-based agents</span>, focusing on questions related to how agents should <span style="color: #bbdefb;">model the environments</span> they interact with, whether that be in <span style="color: #bbdefb;">anticipation</span> using <span style="color: #bbdefb;">forethought</span>, or <span style="color: #bbdefb;">retrospectively</span> using <span style="color: #bbdefb;">hindsight</span> models and <span style="color: #bbdefb;">backward looking mechanisms for adaptivity</span>. 
+        <i class="fas fa-angle-right" style="color: #00a8e8;"></i> Previously, I studied <span class="highlight">credit assignment</span> in <span class="highlight">value-based agents</span>, focusing on questions related to how agents should <span class="highlight">model the environments</span> they interact with, whether that be in <span class="highlight">anticipation</span> using <span class="highlight">forethought</span>, or <span class="highlight">retrospectively</span> using <span class="highlight">hindsight</span> models and <span class="highlight">backward looking mechanisms for adaptivity</span>. 
 
-        ><i class="fas fa-angle-right" style="color: #00a8e8;"></i> I then showed how these models can be extended to include <span style="color: #bbdefb;">selectivity</span> via simple contextual <span style="color: #bbdefb;">attention-based mechanisms</span> and learn those from experience.
+        <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I then showed how these models can be extended to include <span class="highlight">selectivity</span> via simple contextual <span class="highlight">attention-based mechanisms</span> and learn those from experience.
         
-        ><i class="fas fa-angle-right" style="color: #00a8e8;"></i> Traditionally, in machine learning, we often assume that the stream of data in the future will resemble the data seen so far, yet these assumptions may not align with the complexity of real-world settings, where <span style="color: #bbdefb;">the dynamics of the environment evolve in partially predictable ways over time and space</span>. Previously, I have explored some of these challenges, and proposed incorporating <span style="color: #bbdefb;">predictive knowledge</span> (of the agent's future behavior) to mitigate them.
+        <i class="fas fa-angle-right" style="color: #00a8e8;"></i> Traditionally, in machine learning, we often assume that the stream of data in the future will resemble the data seen so far, yet these assumptions may not align with the complexity of real-world settings, where <span class="highlight">the dynamics of the environment evolve in partially predictable ways over time and space</span>. Previously, I have explored some of these challenges, and proposed incorporating <span class="highlight">predictive knowledge</span> (of the agent's future behavior) to mitigate them.
         </div>
 
    # <a href="uploads/research_statement.pdf/" style="text-decoration: none">Research statement <i class="fas fa-file-lines"></i></a>
@@ -165,7 +165,7 @@ sections:
           # date_end: '2020-12-31'
           # description: consulting for LG Electronics R&D team
         - title: Machine Learning Engineer
-          company: Apsisware (2017-2018) / Sparktech Software (2016)
+          company: Apsisware ('17-'18) / Sparktech Software ('16)
           date_start: '2016-01-01'
           date_end: '2018-01-01'
           # date_end: '20-07-01'
@@ -176,7 +176,7 @@ sections:
           # date_end: '2020-12-31'
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Software Engineer
-          company: Deutsche Bank (2015)/ Misys (2014)/ Cronian Labs (2013)
+          company: Deutsche Bank ('15)/ Misys ('14)/ Cronian Labs ('13)
           date_start: '2013-01-01'
           date_end: '2015-01-01'
           location: Bucharest, Romania

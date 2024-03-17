@@ -1,3 +1,6 @@
+a:hover{
+  text-decoration: none;
+}
 body{
   word-wrap: break-word;
   // font-feature-settings: "kern","liga","clig","calt";
@@ -222,7 +225,25 @@ body.dark{
   font-weight: normal;
   color: #EF8371;
 }
+// .dark .experience .text-muted {
+//   color: rgba(255, 255, 255, 0.8);
+// }
+.section-subheading .card-title .exp-company .text-muted .my-0{
+  color: rgba(230,230,230, 0.84);
+}
 
+.section-subheading .card-title .exp-title .text-muted .my-0{
+  color: rgba(230,230,230, 0.84);
+}
+
+.page-footer{
+  font-size: 12px;
+}
+#exp-meta{
+  font-size: 14px;
+  // color: rgba(230,230,230, 0.84)!important;
+  color: rgba(255, 255, 255, 0.54)!important;
+}
 
 .dark .hero-title {
     font-size: 18px;
@@ -232,7 +253,12 @@ body.dark{
 .dark .hero-lead {
     font-size: 16px;
     text-align: justify;
+    color: rgba(150,150,150, 0.84);
 }
+.dark .hero-lead .highlight{
+  color: rgba(230,230,230, 0.84);
+}
+
 
 // .article-style {
 //   // margin: 0 0 0 -50px;
