@@ -102,9 +102,17 @@ body.dark{
 .dark a{
   color: rgba(230,230,230, 0.84);
 }
+.dark h7 a{
+  color: rgba(230,230,230, 0.84);
+}
 #home h1 {
   padding-left: 15px;
   font-size: 22px;
+}
+h2 {
+  padding-bottom: 10px;
+  font-size: 18px;
+  color: rgba(230,230,230, 0.84);
 }
 
 // .dark .navbar-brand .navbar-brand:focus .navbar-brand:hover {
@@ -337,13 +345,13 @@ nav#navbar-main li.nav-item {
 // }
 
 .section-heading h1 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: normal;
   color: #00a8e8;
 }
 
 h1 {
-  // font-size: 18px;
+    font-size: 20px;
     color: #00a8e8;
 }
 

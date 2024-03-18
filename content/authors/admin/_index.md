@@ -31,8 +31,7 @@ whoami_really: |-
   earthling | hooooman | occasionally plant 
 
 feedback: |-
-  
-  <a href="https://www.admonymous.co/veronica"><i class="fas fa-comments"></i> give anonymous feedback 🙏🏽</a>
+  <a href="https://www.admonymous.co/veronica" style="color:rgba(150,150,150, 0.84)!important;"><i class="fas fa-comments"></i> give anonymous feedback 🙏🏽</a></span>
 
 
 quote_title: |-
@@ -146,25 +145,23 @@ highlight_name: true
       <h1 class="hero-title">Research Interests</h1>
   </div> -->
 <div class="card-body experience inner">
+<h2  style="color:rgba(230,230,230, 0.84);">Bio</h2>
 Broadly, I am interested in the study of cognition in <span style="color:#00a8e8;">humans 🧠</span> and <span style="color:#00a8e8;">machines 🤖.</span>
 </br>
 </br>
 <!-- My <span style="color:#EF8371;">research</span> spans <span style="color:#bbdefb;">reinforcement learning</span>, <span style="color:#bbdefb;">deep learning</span>, <span style="color:#bbdefb;">optimization</span> and <span style="color:#bbdefb;">computational neuroscience</span>.</span> -->
 My research spans reinforcement learning, deep learning, optimization and computational neuroscience.
 
-><span style="">Primarily, I work with the <span style="color:rgb(230,230,230, 0.84);"> (lifelong) reinforcement learning </span> problem from an <span style="color:rgb(230,230,230, 0.84);">optimization/deep-learning</span> viewpoint---which has applications in <span style="color:rgb(230,230,230, 0.84);">computational neuroscience</span> and understanding of <span style="color:rgb(230,230,230, 0.84);">neural processes</span>---using tools and perspectives from <span style="color:rgb(230,230,230, 0.84);">mathematics</span>, <span style="color:rgb(230,230,230, 0.84);">statistics</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span> and understandings from other <span style="color:rgb(230,230,230, 0.84);">cognitive sciences</span>.</span>
+<span style="color:rgba(150,150,150, 0.84);">Primarily, I work with the <span style="color:rgb(230,230,230, 0.84);"> (lifelong) reinforcement learning </span> problem from an <span style="color:rgb(230,230,230, 0.84);">optimization/deep-learning</span> viewpoint---which has applications in <span style="color:rgb(230,230,230, 0.84);">computational neuroscience</span> and understanding of <span style="color:rgb(230,230,230, 0.84);">neural processes</span>---using tools and perspectives from <span style="color:rgb(230,230,230, 0.84);">mathematics</span>, <span style="color:rgb(230,230,230, 0.84);">statistics</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span> and understandings from other <span style="color:rgb(230,230,230, 0.84);">cognitive sciences</span>.</span>
 </div>
 <div class="card-body experience inner">
-I am currently interested in questions related to
-<!-- Currently interested in <span style="color:#EF8371;">questions</span> related to... -->
-<!-- * <span style="color:rgba(150,150,150, 0.84);"> 🤖 <span style="color:#EF8371;">(lifelong) learning in AI algorithms/agents</span> via <span style="color:#bbdefb;">acceleration</span>, <span style="color:#bbdefb;">adaptivity</span>, <span style="color:#bbdefb;">plasticity</span>, <span style="color:#bbdefb;">planning</span></span> -->
-</br>
+<h2 style="color:rgba(230,230,230, 0.84);">Research questions</h2>
 <span style=";color:rgba(150,150,150, 0.84);"> 
 🤖 <span style="color:#00a8e8;">lifelong learning in AI algorithms/agents</span>-<span style="color:rgb(230,230,230, 0.84);">acceleration</span>, <span style="color:rgb(230,230,230, 0.84);">adaptivity</span>, <span style="color:rgb(230,230,230, 0.84);">plasticity</span>, <span style="color:rgb(230,230,230, 0.84);">planning</span>
 </br>
 🧠 <span style="color:#00a8e8;">neuroscience</span>-<span style="color:rgb(230,230,230, 0.84);">habitual or goal directed behavior, </span><span style="color:rgb(230,230,230, 0.84);">neuroplasticity, </span></span><span style="color:rgba(150,150,150, 0.84);"><span style="color:rgb(230,230,230, 0.84);">psychedelic research</span> for therapeutic drug design</span><span style="color:rgba(150,150,150, 0.84);">---psychopathologies associated with cognitive inflexibility, plasticity loss---</span><span style="color:rgb(230,230,230, 0.84);">study & understanding of <span style="color:rgb(230,230,230, 0.84);">altered states of consciousness</span>,</span><span style="color:rgba(150,150,150, 0.84);"> via meditation, breathwork, and/or psychedelics</span>
 </div>
-<!-- _________________________________________________________________ -->
+
 <div class="card-body experience inner">
 <span style="color:rgba(150,150,150, 0.84);">
 Fan of <span style="color:rgb(230,230,230, 0.84);">research mysteries</span> 🔮 and <span style="color:rgb(230,230,230, 0.84);">fundamental questions 🦄</span>
@@ -172,7 +169,4 @@ Fan of <span style="color:rgb(230,230,230, 0.84);">research mysteries</span> �
 <span style="color:rgba(150,150,150, 0.84);">Appreciate research that offers a <span style="color:rgb(230,230,230, 0.84);">new understanding</span> <span style="color:rgb(230,230,230, 0.84);">insight</span> or <span style="color:rgb(230,230,230, 0.84);">connection</span> across branches of research or fields in <span style="color:rgb(230,230,230, 0.84);">a unifying truth</span></span>
 </div>
 
-<!-- _________________________________________________________________ -->
 
-
-<!-- {style="text-align: justify;"} -->
