@@ -137,7 +137,11 @@ highlight_name: true
       padding-left: 40px;
       margin-right: 100px;
       /* animation: morph 5s linear infinite; */
-      box-shadow: 0 10px 10px 0  #ffffff05;">
+       /* box-shadow: 0 0px 10px 10px  #23252f; */
+      box-shadow: 0 10px 10px 0  #23252f;
+      /* border-color: #23252f; */
+      /* box-shadow: 0 10px 10px 0  #ffffff05; */
+      ">
   <span style="font-size: 0.9rem;">Don't hesitate to reach out if you want to <span style="color:#bbdefb;">chat about research   </span>
   <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i>    Schedule a <span style="color:#bbdefb;">meeting</span> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a></span>
 </div>
@@ -161,7 +165,11 @@ highlight_name: true
       padding-bottom: 90px;
       /* padding-right: 20rem; */
       /* animation: morph 5s linear infinite; */
-      box-shadow: 0 10px 10px 0  #ffffff05;">
+      /* box-shadow: 0 10px 10px 0  #ffffff05; */
+       /* box-shadow: 0 0px 10px 10px  #23252f; */
+      box-shadow: 0 10px 10px 0  #23252f;
+      /* border-color: #23252f; */
+      ">
 <h2  style="color:rgba(230,230,230, 0.84);">Bio</h2>
 Broadly, I am interested in the study of cognition in <span style="color:#00a8e8;">humans 🧠</span> and <span style="color:#00a8e8;">machines 🤖.</span> , aiming both to enhance scientific knowledge and understanding, as well as to assist in the development of technology enhancing human health and well-being, and minimizing suffering.
 </br>
@@ -184,7 +192,11 @@ Broadly, I am interested in the study of cognition in <span style="color:#00a8e8
       padding-bottom: 80px;
       /* padding-right: 20rem; */
       /* animation: morph 5s linear infinite; */
-      box-shadow: 0 10px 10px 0  #ffffff05;">
+      /* box-shadow: 0 10px 10px 0  #ffffff05; */
+      /* box-shadow: 0 0px 10px 10px  #23252f; */
+      box-shadow: 0 10px 10px 0  #23252f;
+      /* border-color: #23252f; */
+      ">
 <h2 style="color:rgba(230,230,230, 0.84);">Research questions</h2>
 <span style=";color:rgba(150,150,150, 0.84);"> 
 🤖 <span style="color:#00a8e8;">AI</span>-<span style="color:rgb(230,230,230, 0.84);">RL</span>, <span style="color:rgb(230,230,230, 0.84);">policy optimization</span>, <span style="color:rgb(230,230,230, 0.84);">learning theory</span>, <span style="color:rgb(230,230,230, 0.84);">deep & lifelong learning</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span>
@@ -203,7 +215,11 @@ understanding of the mechanisms underlying sensory, motor or cognitive computati
       padding-right: 30px;
       padding-bottom: 30px;
       /* animation: morph 5s linear infinite; */
-      box-shadow: 0 10px 10px 0  #ffffff05;">
+      /* box-shadow: 0 10px 10px 0  #ffffff05; */
+      /* box-shadow: 0 0px 10px 10px  #23252f; */
+      box-shadow: 0 10px 10px 0  #23252f;
+      /* border-color: #23252f; */
+      ">
 <span style="color:rgba(150,150,150, 0.84);">
 Fan of <span style="color:rgb(230,230,230, 0.84);">research mysteries</span> 🔮 and <span style="color:rgb(230,230,230, 0.84);">fundamental questions 🦄</span>
 
