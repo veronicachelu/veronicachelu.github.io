@@ -100,7 +100,7 @@ sections:
     content:
       title: Research overview
       text: |-
-        <div class="card-body experience inner">
+        <div class="card-body experience inne">
          I'm currently focusing on 🤖 <span style="color: #EF8371;">acceleration for policy optimization in RL</span> and 🧠 <span style="color: #EF8371;">computational models of psychedelic action</span>.
         </div>
         <div class="card-body experience inner">
