@@ -41,7 +41,7 @@ quote: |-
   <hr size="10">
   "If your mind is empty...it is open to everything.
   </br>
-  In the begnotinner’s mind there are many possibilities, but in the expert’s mind there are few."
+  In the beginner's mind there are many possibilities, but in the expert’s there are few."
 
 quote_author: |-
   ---Shunryu Suzuki, "Zen Mind, Begnotinner’s Mind"
@@ -171,7 +171,7 @@ highlight_name: true
       /* border-color: #23252f; */
       ">
 <h2  style="color:rgba(230,230,230, 0.84);">Bio</h2>
-Broadly, I am interested in the study of cognition in <span style="color:#00a8e8;">humans 🧠</span> and <span style="color:#00a8e8;">machines 🤖.</span> , aiming both to enhance scientific knowledge and understanding, as well as to assist in the development of technology enhancing human health and well-being, and minimizing suffering.
+<span style="color:rgba(150,150,150, 0.84);">Broadly, I am interested in the study of cognition in <span style="color:#00a8e8;">humans 🧠</span> and <span style="color:#00a8e8;">machines 🤖</span>, aiming both to <span style="color:rgb(230,230,230, 0.84);">enhance scientific knowledge and understanding</span>, as well as to assist in the development of <span style="color:rgb(230,230,230, 0.84);">technology enhancing human health</span> and <span style="color:rgb(230,230,230, 0.84);">well-being</span>, and <span style="color:rgb(230,230,230, 0.84);">minimizing suffering.</span></span>
 </br>
 </br>
 <!-- My <span style="color:#EF8371;">research</span> spans <span style="color:#bbdefb;">reinforcement learning</span>, <span style="color:#bbdefb;">deep learning</span>, <span style="color:#bbdefb;">optimization</span> and <span style="color:#bbdefb;">computational neuroscience</span>.</span> -->
