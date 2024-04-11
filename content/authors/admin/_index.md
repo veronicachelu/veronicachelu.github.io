@@ -131,9 +131,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<div class="card-body experience notinner1" style="
-     
-      ">
+<div class="card-body experience notinner1">
   <span style="font-size: 0.9rem;">Don't hesitate to reach out if you want to <span style="color:#bbdefb;">chat about research   </span>
   <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i>    Schedule a <span style="color:#bbdefb;">meeting</span> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a></span>
 </div>
@@ -146,9 +144,7 @@ highlight_name: true
   <!-- <div class=" text-center text-md-left" style="text-align: justify;margin-right: auto;margin-left: auto;">
       <h1 class="hero-title">Research Interests</h1>
   </div> -->
-<div class="card-body experience notinner2" style="
-      
-      ">
+<div class="card-body experience notinner2" >
 <h2  style="color:rgba(230,230,230, 0.84);">Bio</h2>
 <span style="color:rgba(150,150,150, 0.84);">Broadly, I am interested in the study of cognition in <span style="color:#00a8e8;">humans 🧠</span> and <span style="color:#00a8e8;">machines 🤖</span>, aiming both to <span style="color:rgb(230,230,230, 0.84);">enhance scientific knowledge and understanding</span>, as well as to assist in the development of <span style="color:rgb(230,230,230, 0.84);">technology enhancing human health</span> and <span style="color:rgb(230,230,230, 0.84);">well-being</span>, and <span style="color:rgb(230,230,230, 0.84);">minimizing suffering.</span></span>
 </br>
@@ -160,9 +156,7 @@ highlight_name: true
 <span style="color:rgba(150,150,150, 0.84);">I use tools and perspectives from <span style="color:rgb(230,230,230, 0.84);">mathematics</span>, <span style="color:rgb(230,230,230, 0.84);">statistics</span>, <span style="color:rgb(230,230,230, 0.84);">optimization</span>, <span style="color:rgb(230,230,230, 0.84);">machine/deep learning</span>, <span style="color:rgb(230,230,230, 0.84);">numerical methods</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span>, as well as knowledge and insights from <span style="color:rgb(230,230,230, 0.84);">psychopharmacology</span>.</span>
 <!-- <span style="color:rgba(150,150,150, 0.84);">Primarily, I work with the <span style="color:rgb(230,230,230, 0.84);"> (lifelong) reinforcement learning </span> problem from an <span style="color:rgb(230,230,230, 0.84);">optimization/deep-learning</span> viewpoint---which has applications in <span style="color:rgb(230,230,230, 0.84);">computational neuroscience</span> and understanding of <span style="color:rgb(230,230,230, 0.84);">neural processes</span>---using tools and perspectives from <span style="color:rgb(230,230,230, 0.84);">mathematics</span>, <span style="color:rgb(230,230,230, 0.84);">statistics</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span> and understandings from other <span style="color:rgb(230,230,230, 0.84);">cognitive sciences</span>.</span> -->
 </div>
-<div class="card-body experience notinner3" style="
-     
-      ">
+<div class="card-body experience notinner3">
 <h2 style="color:rgba(230,230,230, 0.84);">Research questions</h2>
 <span style=";color:rgba(150,150,150, 0.84);"> 
 🤖 <span style="color:#00a8e8;">AI</span>-<span style="color:rgb(230,230,230, 0.84);">RL</span>, <span style="color:rgb(230,230,230, 0.84);">policy optimization</span>, <span style="color:rgb(230,230,230, 0.84);">learning theory</span>, <span style="color:rgb(230,230,230, 0.84);">deep & lifelong learning</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span>
@@ -173,9 +167,7 @@ understanding of the mechanisms underlying sensory, motor or cognitive computati
 <!-- habitual or goal directed behavior, </span><span style="color:rgb(230,230,230, 0.84);">neuroplasticity, </span></span><span style="color:rgba(150,150,150, 0.84);"><span style="color:rgb(230,230,230, 0.84);">psychedelic research</span> for therapeutic drug design</span><span style="color:rgba(150,150,150, 0.84);">---psychopathologies associated with cognitive inflexibility, plasticity loss---</span><span style="color:rgb(230,230,230, 0.84);">study & understanding of <span style="color:rgb(230,230,230, 0.84);">altered states of consciousness</span>,</span><span style="color:rgba(150,150,150, 0.84);"> via meditation, breathwork, and/or psychedelics</span> -->
 </div>
 
-<div class="card-body experience notinner4" style="
-      
-      ">
+<div class="card-body experience notinner4">
 <span style="color:rgba(150,150,150, 0.84);">
 Fan of <span style="color:rgb(230,230,230, 0.84);">research mysteries</span> 🔮 and <span style="color:rgb(230,230,230, 0.84);">fundamental questions 🦄</span>
 
