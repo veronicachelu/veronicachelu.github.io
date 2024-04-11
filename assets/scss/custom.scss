@@ -27,7 +27,7 @@ body{
   // height: 100vh;
 }
 
-.circle {
+// .circle {
   // background: plum;
   // width: 400px;
   // height: 400px;
@@ -43,7 +43,7 @@ body{
   // border-width: 0;
   // box-sizing: border-box;
   // background: #23252f;
-}
+// }
 
 .circle img {
   width: 100%;
@@ -116,8 +116,8 @@ hr {
   padding-bottom: 30px;
   animation: morph 5s linear infinite;
   box-shadow: 0 0 50px 50px  #ffffff05;
-  
 }
+
 .notinner {
   border-bottom-width: 0px;
   border-top-width: 1px;
@@ -133,6 +133,73 @@ hr {
   padding: 1.25rem;
   border-radius: 30px;
 }
+.notinner1 {
+      border-radius:  100% 60% 60% 100% / 100% 100% 60% 60%;
+      overflow: hidden;
+      padding-left: 40px;
+      margin-right: 100px;
+      /* animation: morph 5s linear infinite; */
+      /* box-shadow: 0 0px 10px 10px  #23252f; */
+      box-shadow: 0 10px 10px 0  #23252f;
+      /* border-color: #23252f; */
+      /* box-shadow: 0 10px 10px 0  #ffffff05; */
+      border-radius:  100% 60% 60% 100% / 100% 100% 60% 60%;
+      overflow: hidden;
+      padding-left: 40px;
+      margin-right: 100px;
+      /* animation: morph 5s linear infinite; */
+       /* box-shadow: 0 0px 10px 10px  #23252f; */
+      box-shadow: 0 10px 10px 0  #23252f;
+      /* border-color: #23252f; */
+      /* box-shadow: 0 10px 10px 0  #ffffff05; */
+}
+.notinner2 {
+  /* border-radius:  100% 60% 60% 100% / 100% 100% 60% 60%; */
+      /* border-radius:  70% 30% 50% 50% / 30% 30% 70% 70%; */
+      border-radius: 40% 60% 70% 30% / 40% 40% 60% 50%;
+      overflow: hidden;
+      padding-top: 60px;
+      padding-right: 110px;
+      padding-left: 70px;
+      padding-bottom: 90px;
+      /* padding-right: 20rem; */
+      /* animation: morph 5s linear infinite; */
+      /* box-shadow: 0 10px 10px 0  #ffffff05; */
+       /* box-shadow: 0 0px 10px 10px  #23252f; */
+      box-shadow: 0 10px 10px 0  #23252f;
+      /* border-color: #23252f; */
+}
+.notinner3 {
+  border-radius:  100% 60% 60% 100% / 100% 100% 60% 60%;
+  border-radius:  70% 30% 50% 50% / 30% 30% 70% 70%;
+  /* border-radius: 40% 60% 70% 30% / 40% 40% 60% 50%; */
+  overflow: hidden;
+  padding-top: 30px;
+  padding-left: 90px;
+  padding-right: 60px;
+  padding-bottom: 80px;
+  /* padding-right: 20rem; */
+  /* animation: morph 5s linear infinite; */
+  /* box-shadow: 0 10px 10px 0  #ffffff05; */
+  /* box-shadow: 0 0px 10px 10px  #23252f; */
+  box-shadow: 0 10px 10px 0  #23252f;
+  /* border-color: #23252f; */
+}
+.notinner4 {
+  border-radius:   60% 100% 100% 60%/  60% 60% 100% 100%;
+      overflow: hidden;
+      padding-top: 20px;
+      padding-left: 60px;
+      padding-right: 30px;
+      padding-bottom: 30px;
+      /* animation: morph 5s linear infinite; */
+      /* box-shadow: 0 10px 10px 0  #ffffff05; */
+      /* box-shadow: 0 0px 10px 10px  #23252f; */
+      box-shadow: 0 10px 10px 0  #23252f;
+      /* border-color: #23252f; */
+}
+
+
 .inner {
   border-bottom-width: 0px;
   border-top-width: 1px;
@@ -183,6 +250,42 @@ hr {
 //   // border-color: #EF8371;
 //   // border-color: !important;
 // }
+@media screen and (max-width: 768px) {
+  .highlight  {
+    padding-top: 0px;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-bottom: 0px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .notinner, .inner, .inne, .notinner1, .notinner2, .notinner3, .notinner4  {
+      padding-top: 0px;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-bottom: 0px;
+      padding: 1.25rem;
+      border-color: #52545880;
+      border-style: solid;
+      border-width: 0;
+      box-sizing: border-box;
+      font-family: "Muli", system-ui, -apple-system, "Segoe UI", Roboto,
+      "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+      "Noto Color Emoji";
+      font-size: 14px;
+      background-color: #272a36;
+      border-radius: 1rem;
+      border: 1px solid rgba(0, 168, 232, 0.125);
+      margin-bottom: 1.5rem;
+      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+      text-align: unset;
+      animation: unset;
+      margin-right: 0px;
+  }
+  
+}
 *, :after, :before {
   border-color: #52545880;
   border-style: solid;
