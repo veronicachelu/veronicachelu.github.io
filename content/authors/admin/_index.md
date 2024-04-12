@@ -44,7 +44,7 @@ quote: |-
   In the beginner's mind there are many possibilities, but in the expert’s there are few."
 
 quote_author: |-
-  ---Shunryu Suzuki, "Zen Mind, Begnotinner’s Mind"
+  ---Shunryu Suzuki, "Zen Mind, Beginner’s Mind"
 
 other:  |-
    <span style="color:#00a8e8;">Ph.D candidate</span>
