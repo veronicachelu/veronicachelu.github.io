@@ -104,16 +104,20 @@ sections:
          I'm currently focusing on 🤖 <span style="color: #EF8371;">acceleration for policy optimization in RL</span> and 🧠 <span style="color: #EF8371;">computational models of psychedelic action</span>.
         </div>
         <div class="card-body experience inner">
-        <h2 style="color:rgba(230,230,230, 0.84);"> Past research chapters</h2>
+        <h2 style="color:rgba(230,230,230, 0.84);  text-align:center;"> Past research chapters</h2>
         <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I previously explored the idea of <span class="highlight">anticipating the future</span> and <span class="highlight">adapting</span> to it, and  proposed a simple template for <span class="highlight">accelerating policy gradient algorithms</span> by integrating <span class="highlight">foresight</span> into the policy improvement step, via <span class="highlight">optimistic</span> and <span class="highlight">adaptive</span> policy updates. I defined <span class="highlight">optimism</span> as <span class="highlight">predictive modeling</span> of the future behavior of a policy, and <span class="highlight">adaptivity</span> as taking <span class="highlight">immediate</span> and <span class="highlight">anticipatory corrective actions</span> to mitigate accumulating errors from <span class="highlight">overshooting predictions</span> or <span class="highlight">delayed responses to change</span>. Currently, I am investigating acceleration within the <span class="highlight">Policy Mirror Descent (PMD) general family of algorithms</span>, which cover a wide range of novel and fundamental methods in reinforcement learning.
-        
+        </br>
+        </br>
         <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I also studied policy optimization as a joint-maximization problem and worked on a  <span class="highlight">surrogate policy learning objective for the joint maximization of a policy and its value-function</span>.
         Practical implementations of policy-based algorithms rely on value-functions, represented as <span class="highlight">neural networks</span>, to compute the policy gradient, introducing challenges related to the  accuracy of the policy gradient, particularly in low-capacity regimes, characteristic of agents with <span class="highlight">bounded rationality</span>. 
-
+        </br>
+        </br>
         <i class="fas fa-angle-right" style="color: #00a8e8;"></i> Previously, I studied <span class="highlight">credit assignment</span> in <span class="highlight">value-based agents</span>, focusing on questions related to how agents should <span class="highlight">model the environments</span> they interact with, whether that be in <span class="highlight">anticipation</span> using <span class="highlight">forethought</span>, or <span class="highlight">retrospectively</span> using <span class="highlight">hindsight</span> models and <span class="highlight">backward looking mechanisms for adaptivity</span>. 
-
+        </br>
+        </br>
         <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I then showed how these models can be extended to include <span class="highlight">selectivity</span> via simple contextual <span class="highlight">attention-based mechanisms</span> and learn those from experience.
-        
+        </br> 
+        </br>
         <i class="fas fa-angle-right" style="color: #00a8e8;"></i> Traditionally, in machine learning, we often assume that the stream of data in the future will resemble the data seen so far, yet these assumptions may not align with the complexity of real-world settings, where <span class="highlight">the dynamics of the environment evolve in partially predictable ways over time and space</span>. Previously, I have explored some of these challenges, and proposed incorporating <span class="highlight">predictive knowledge</span> (of the agent's future behavior) to mitigate them.
         </div>
 
