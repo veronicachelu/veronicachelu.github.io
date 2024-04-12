@@ -65,16 +65,19 @@ body{
   }
 }
 .portrait-title {
+  font-size: 12px!important;
+}
+.portrait-title h3{
   font-size: 14px!important;
 }
 .quotetitle2 {
-  font-size: 14px!important;
+  font-size: 12px!important;
 }
 .quotetitle{
-  font-size: 12px!important;
+  font-size: 11px!important;
 }
 .quote-title{
-  font-size: 12px!important;
+  font-size: 11px!important;
 }
 .quote-title2{
   font-size: 10px!important;
@@ -161,10 +164,10 @@ hr {
       /* border-radius:  70% 30% 50% 50% / 30% 30% 70% 70%; */
       border-radius: 40% 60% 70% 30% / 40% 40% 60% 50%;
       overflow: hidden;
-      padding-top: 60px;
+      padding-top: 20px;
       padding-right: 110px;
       padding-left: 70px;
-      padding-bottom: 90px;
+      padding-bottom: 70px;
       margin-bottom: 1.5rem;
       /* padding-right: 20rem; */
       /* animation: morph 5s linear infinite; */

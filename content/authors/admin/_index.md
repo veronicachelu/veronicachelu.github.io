@@ -145,7 +145,7 @@ highlight_name: true
       <h1 class="hero-title">Research Interests</h1>
   </div> -->
 <div class="card-body experience notinner2" >
-<h2  style="color:rgba(230,230,230, 0.84);">Bio</h2>
+<h2  style="color:rgba(230,230,230, 0.84); text-align:left;padding-left:200px;color:#00a8e8;">Bio</h2>
 <span style="color:rgba(150,150,150, 0.84);">Broadly, I am interested in the study of cognition in <span style="color:#00a8e8;">humans 🧠</span> and <span style="color:#00a8e8;">machines 🤖</span>, aiming both to <span style="color:rgb(230,230,230, 0.84);">enhance scientific knowledge and understanding</span>, as well as to assist in the development of <span style="color:rgb(230,230,230, 0.84);">technology enhancing human health</span> and <span style="color:rgb(230,230,230, 0.84);">well-being</span>, and <span style="color:rgb(230,230,230, 0.84);">minimizing suffering.</span></span>
 </br>
 </br>
@@ -157,7 +157,7 @@ highlight_name: true
 <!-- <span style="color:rgba(150,150,150, 0.84);">Primarily, I work with the <span style="color:rgb(230,230,230, 0.84);"> (lifelong) reinforcement learning </span> problem from an <span style="color:rgb(230,230,230, 0.84);">optimization/deep-learning</span> viewpoint---which has applications in <span style="color:rgb(230,230,230, 0.84);">computational neuroscience</span> and understanding of <span style="color:rgb(230,230,230, 0.84);">neural processes</span>---using tools and perspectives from <span style="color:rgb(230,230,230, 0.84);">mathematics</span>, <span style="color:rgb(230,230,230, 0.84);">statistics</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span> and understandings from other <span style="color:rgb(230,230,230, 0.84);">cognitive sciences</span>.</span> -->
 </div>
 <div class="card-body experience notinner3">
-<h2 style="color:rgba(230,230,230, 0.84);">Research questions</h2>
+<h2 style="color:rgba(230,230,230, 0.84);text-align:right;padding-right:100px;color:#00a8e8;">Research questions</h2>
 <span style=";color:rgba(150,150,150, 0.84);"> 
 🤖 <span style="color:#00a8e8;">AI</span>-<span style="color:rgb(230,230,230, 0.84);">RL</span>, <span style="color:rgb(230,230,230, 0.84);">policy optimization</span>, <span style="color:rgb(230,230,230, 0.84);">learning theory</span>, <span style="color:rgb(230,230,230, 0.84);">deep & lifelong learning</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span>
 <!-- <span style="color:rgb(230,230,230, 0.84);">acceleration</span>, <span style="color:rgb(230,230,230, 0.84);">adaptivity</span>, <span style="color:rgb(230,230,230, 0.84);">plasticity</span>, <span style="color:rgb(230,230,230, 0.84);">planning</span> -->

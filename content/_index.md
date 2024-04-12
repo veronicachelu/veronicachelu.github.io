@@ -101,10 +101,10 @@ sections:
       title: Research overview
       text: |-
         <div class="card-body experience inne">
-         I'm currently focusing on 🤖 <span style="color: #EF8371;">acceleration for policy optimization in RL</span> and 🧠 <span style="color: #EF8371;">computational models of psychedelic action</span>.
+         I'm currently focusing on 🤖 <span style="color:rgb(230,230,230, 0.84);">acceleration for policy optimization in RL</span> and 🧠 <span style="color:rgb(230,230,230, 0.84);">computational models of psychedelic action</span>.
         </div>
         <div class="card-body experience inner">
-        <h2 style="color:rgba(230,230,230, 0.84);  text-align:center;"> Past research chapters</h2>
+        <h2 style="color:rgba(230,230,230, 0.84);  text-align:center;color: #EF8371;"> Past research chapters</h2>
         <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I previously explored the idea of <span class="highlight">anticipating the future</span> and <span class="highlight">adapting</span> to it, and  proposed a simple template for <span class="highlight">accelerating policy gradient algorithms</span> by integrating <span class="highlight">foresight</span> into the policy improvement step, via <span class="highlight">optimistic</span> and <span class="highlight">adaptive</span> policy updates. I defined <span class="highlight">optimism</span> as <span class="highlight">predictive modeling</span> of the future behavior of a policy, and <span class="highlight">adaptivity</span> as taking <span class="highlight">immediate</span> and <span class="highlight">anticipatory corrective actions</span> to mitigate accumulating errors from <span class="highlight">overshooting predictions</span> or <span class="highlight">delayed responses to change</span>. Currently, I am investigating acceleration within the <span class="highlight">Policy Mirror Descent (PMD) general family of algorithms</span>, which cover a wide range of novel and fundamental methods in reinforcement learning.
         </br>
         </br>
