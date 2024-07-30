@@ -86,11 +86,11 @@ education:
       type: 1
     - course: M.Sc in Computer Science (AI)
       institution: University Politehnica of Bucharest
-      year: 2013
+      year: 2016-2018
       type: 2
     - course: B.Sc in Computer Science (math/CS)
       institution: University Politehnica of Bucharest
-      year: 2009
+      year: 2009-2013
       type: 3
  
 
