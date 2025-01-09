@@ -133,7 +133,9 @@ highlight_name: true
 ---
 <div class="card-body experience notinner1">
   <span style="font-size: 0.9rem;">Don't hesitate to reach out if you want to <span style="color:#bbdefb;">chat about research   </span>
-  <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i>    Schedule a <span style="color:#bbdefb;">meeting</span> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a></span>
+<!--   <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> -->
+<!--     <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i>    Schedule a <span style="color:#bbdefb;">meeting</span> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a> -->
+  </span>
 </div>
 <!-- _________________________________________________________________ -->
 
