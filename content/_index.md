@@ -152,8 +152,8 @@ sections:
               May 15, 2025
             </time>-
             <a href="#"
-              style="font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
-              Excited to start a postdoc in Rose Bagot's lab at McGill to study the neural mechanisms of psychedelics. 
+              style="color:#rgb(230,230,230, 0.84); text-decoration:none;">
+              Excited to start a postdoc in Rose Bagot's lab at McGill to study the neural mechanisms of psychedelics :brain: :mushroom:  :sparkles::mouse2::cyclone:. 
             </a>
           </li>
         <li style="margin-bottom:1.5rem;">
@@ -162,8 +162,8 @@ sections:
               April 15, 2025
             </time>-
             <a href="#"
-              style="font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
-              I'm officially a Dr. 
+              style="color:#rgb(230,230,230, 0.84); text-decoration:none;">
+              I'm officially a Dr. ! yay! :)
             </a>
           </li>
           <li style="margin-bottom:1.5rem;">
@@ -172,8 +172,8 @@ sections:
               March 25, 2025
             </time>-
             <a href="#"
-              style="font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
-              Successfully defended my Ph.D
+              style="color:#rgb(230,230,230, 0.84); text-decoration:none;">
+              Successfully defended my Ph.D! phew...
             </a>
           </li>
           <li style="margin-bottom:1.5rem;">
@@ -182,8 +182,8 @@ sections:
               March 27 - April 1, 2025
             </time>-
             <a href="#"
-              style="font-weight:600; color:rgb(230,230,230, 0.84); text-decoration:none;">
-              Presenting "Mood as an Extrapolation Engine for Adaptive Learning & Decision-Making" at COSYNE 2025.
+              style="color:rgb(230,230,230, 0.84); text-decoration:none;">
+              Presenting "Mood as an Extrapolation Engine for Adaptive Learning & Decision-Making" at COSYNE 2025. Couldn't be more excited! It's my first neuroscience conference.
             </a>
           </li>
           <!-- Repeat .recent-news__item as needed -->
