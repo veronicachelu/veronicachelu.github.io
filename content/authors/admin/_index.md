@@ -125,7 +125,7 @@ social:
   # and uncomment the lines below.
   - icon: file
     icon_pack: fas
-    link: uploads/resume1.pdf
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
