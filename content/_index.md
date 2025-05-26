@@ -75,6 +75,35 @@ sections:
     # #       # gradient_end: '#1976d2'
     # #       # gradient_start: '#004ba0'
     # #       # text_color_light: true
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   - block: hero
     id: research
     
@@ -97,29 +126,87 @@ sections:
         # gradient_end: '#1976d2'
         # gradient_start: '#004ba0'
         # text_color_light: true
+        # text: |-
+        #   <div class="card-body experience inne">
+        #    I'm currently focusing on 🤖 <span style="color:rgb(230,230,230, 0.84);">acceleration for policy optimization in RL</span> and 🧠 <span style="color:rgb(230,230,230, 0.84);">computational models of psychedelic action</span>.
+        #   </div>
+        # <!-- Recent News Section with Inline Styling -->
+         # <h2 style="font-size:1.5rem; margin-bottom:0.25rem; border-bottom:2px solid #ccc; padding-bottom:0.5rem;">
+        #   Recent News
+        # </h2>
+        # <p style="font-size:0.95rem; color:#333; margin-top:0.5rem;">
+            #   Our latest study reveals how psychedelics reshape neural trajectories…
+            # </p>
     content:
-      title: Research overview
+      title: News
       text: |-
-        <div class="card-body experience inne">
-         I'm currently focusing on 🤖 <span style="color:rgb(230,230,230, 0.84);">acceleration for policy optimization in RL</span> and 🧠 <span style="color:rgb(230,230,230, 0.84);">computational models of psychedelic action</span>.
+        <div style="max-width:800px; margin:2rem auto; padding:0 1rem;">
+        <p style="font-size:0.85rem; color:#666; margin-bottom:1rem;">
+          Last updated:
+          <time datetime="2025-05-25" style="font-weight:500;">May 25, 2025</time>
+        </p>
+        <ul style="list-style:none; margin:0; padding:0;">
+        <li style="margin-bottom:1.5rem;">
+            <time datetime="2025-05-25"
+                  style="display:inline; font-size:0.85rem; color:#666; margin-bottom:0.25rem;">
+              May 15, 2025
+            </time>-
+            <a href="#"
+              style="font-size:1.1rem; font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
+              Excited to start a postdoc in Rose Bagot's lab at McGill to study the neural mechanisms of psychedelics. 
+            </a>
+          </li>
+        <li style="margin-bottom:1.5rem;">
+            <time datetime="2025-05-25"
+                  style="display:inline; font-size:0.85rem; color:#666; margin-bottom:0.25rem;">
+              April 15, 2025
+            </time>-
+            <a href="#"
+              style="font-size:1.1rem; font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
+              I'm officially a Dr. 
+            </a>
+          </li>
+          <li style="margin-bottom:1.5rem;">
+            <time datetime="2025-05-25"
+                  style="display:inline; font-size:0.85rem; color:#666; margin-bottom:0.25rem;">
+              March 25, 2025
+            </time>-
+            <a href="#"
+              style="font-size:1.1rem; font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
+              Successfully defended my Ph.D
+            </a>
+          </li>
+          <li style="margin-bottom:1.5rem;">
+            <time datetime="2025-05-20"
+                  style="display:inline; font-size:0.85rem; color:#666; margin-bottom:0.25rem;">
+              March 27 - April 1, 2025
+            </time>-
+            <a href="#"
+              style="font-size:1.1rem; font-weight:600; color:rgb(230,230,230, 0.84); text-decoration:none;">
+              Presenting "Mood as an Extrapolation Engine for Adaptive Learning & Decision-Making" at COSYNE 2025.
+            </a>
+          </li>
+          <!-- Repeat .recent-news__item as needed -->
+        </ul>
         </div>
-        <div class="card-body experience inner">
-        <h2 style="color:rgba(230,230,230, 0.84);  text-align:center;color: #EF8371;"> Past research chapters</h2>
-        <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I previously explored the idea of <span class="highlight">anticipating the future</span> and <span class="highlight">adapting</span> to it, and  proposed a simple template for <span class="highlight">accelerating policy gradient algorithms</span> by integrating <span class="highlight">foresight</span> into the policy improvement step, via <span class="highlight">optimistic</span> and <span class="highlight">adaptive</span> policy updates. I defined <span class="highlight">optimism</span> as <span class="highlight">predictive modeling</span> of the future behavior of a policy, and <span class="highlight">adaptivity</span> as taking <span class="highlight">immediate</span> and <span class="highlight">anticipatory corrective actions</span> to mitigate accumulating errors from <span class="highlight">overshooting predictions</span> or <span class="highlight">delayed responses to change</span>. Currently, I am investigating acceleration within the <span class="highlight">Policy Mirror Descent (PMD) general family of algorithms</span>, which cover a wide range of novel and fundamental methods in reinforcement learning.
-        </br>
-        </br>
-        <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I also studied policy optimization as a joint-maximization problem and worked on a  <span class="highlight">surrogate policy learning objective for the joint maximization of a policy and its value-function</span>.
-        Practical implementations of policy-based algorithms rely on value-functions, represented as <span class="highlight">neural networks</span>, to compute the policy gradient, introducing challenges related to the  accuracy of the policy gradient, particularly in low-capacity regimes, characteristic of agents with <span class="highlight">bounded rationality</span>. 
-        </br>
-        </br>
-        <i class="fas fa-angle-right" style="color: #00a8e8;"></i> Previously, I studied <span class="highlight">credit assignment</span> in <span class="highlight">value-based agents</span>, focusing on questions related to how agents should <span class="highlight">model the environments</span> they interact with, whether that be in <span class="highlight">anticipation</span> using <span class="highlight">forethought</span>, or <span class="highlight">retrospectively</span> using <span class="highlight">hindsight</span> models and <span class="highlight">backward looking mechanisms for adaptivity</span>. 
-        </br>
-        </br>
-        <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I then showed how these models can be extended to include <span class="highlight">selectivity</span> via simple contextual <span class="highlight">attention-based mechanisms</span> and learn those from experience.
-        </br> 
-        </br>
-        <i class="fas fa-angle-right" style="color: #00a8e8;"></i> Traditionally, in machine learning, we often assume that the stream of data in the future will resemble the data seen so far, yet these assumptions may not align with the complexity of real-world settings, where <span class="highlight">the dynamics of the environment evolve in partially predictable ways over time and space</span>. Previously, I have explored some of these challenges, and proposed incorporating <span class="highlight">predictive knowledge</span> (of the agent's future behavior) to mitigate them.
-        </div>
+
+      #   <div class="card-body experience inner">
+      #   <h2 style="color:rgba(230,230,230, 0.84);  text-align:center;color: #EF8371;"> Past research chapters</h2>
+      #   <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I previously explored the idea of <span class="highlight">anticipating the future</span> and <span class="highlight">adapting</span> to it, and  proposed a simple template for <span class="highlight">accelerating policy gradient algorithms</span> by integrating <span class="highlight">foresight</span> into the policy improvement step, via <span class="highlight">optimistic</span> and <span class="highlight">adaptive</span> policy updates. I defined <span class="highlight">optimism</span> as <span class="highlight">predictive modeling</span> of the future behavior of a policy, and <span class="highlight">adaptivity</span> as taking <span class="highlight">immediate</span> and <span class="highlight">anticipatory corrective actions</span> to mitigate accumulating errors from <span class="highlight">overshooting predictions</span> or <span class="highlight">delayed responses to change</span>. Currently, I am investigating acceleration within the <span class="highlight">Policy Mirror Descent (PMD) general family of algorithms</span>, which cover a wide range of novel and fundamental methods in reinforcement learning.
+      #   </br>
+      #   </br>
+      #   <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I also studied policy optimization as a joint-maximization problem and worked on a  <span class="highlight">surrogate policy learning objective for the joint maximization of a policy and its value-function</span>.
+      #   Practical implementations of policy-based algorithms rely on value-functions, represented as <span class="highlight">neural networks</span>, to compute the policy gradient, introducing challenges related to the  accuracy of the policy gradient, particularly in low-capacity regimes, characteristic of agents with <span class="highlight">bounded rationality</span>. 
+      #   </br>
+      #   </br>
+      #   <i class="fas fa-angle-right" style="color: #00a8e8;"></i> Previously, I studied <span class="highlight">credit assignment</span> in <span class="highlight">value-based agents</span>, focusing on questions related to how agents should <span class="highlight">model the environments</span> they interact with, whether that be in <span class="highlight">anticipation</span> using <span class="highlight">forethought</span>, or <span class="highlight">retrospectively</span> using <span class="highlight">hindsight</span> models and <span class="highlight">backward looking mechanisms for adaptivity</span>. 
+      #   </br>
+      #   </br>
+      #   <i class="fas fa-angle-right" style="color: #00a8e8;"></i> I then showed how these models can be extended to include <span class="highlight">selectivity</span> via simple contextual <span class="highlight">attention-based mechanisms</span> and learn those from experience.
+      #   </br> 
+      #   </br>
+      #   <i class="fas fa-angle-right" style="color: #00a8e8;"></i> Traditionally, in machine learning, we often assume that the stream of data in the future will resemble the data seen so far, yet these assumptions may not align with the complexity of real-world settings, where <span class="highlight">the dynamics of the environment evolve in partially predictable ways over time and space</span>. Previously, I have explored some of these challenges, and proposed incorporating <span class="highlight">predictive knowledge</span> (of the agent's future behavior) to mitigate them.
+      #   </div>
 
    # <a href="uploads/research_statement.pdf/" style="text-decoration: none">Research statement <i class="fas fa-file-lines"></i></a>
   - block: experience

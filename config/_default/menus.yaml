@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#home'
     weight: 10
-  - name: Research overview
+  - name: News
     url: '#research'
     weight: 20
   - name: Industry experience

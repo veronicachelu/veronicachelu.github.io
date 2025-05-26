@@ -11,7 +11,7 @@ last_name: Chelu
 superuser: true
 
 # Role/position
-role: Ph.D Candidate 
+role: Postdoctoral Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,10 +22,10 @@ organizations:
 
 whoami: |-
   <hr size="10">
-  meditator | yogi  | casual naïve artist | self-taught
+  meditation enthusiast | yogi (200h RYT)
 
 whoami2: |-
-  amateur handbalancer & contortionist-in-progress 
+  amateur handbalancer & contortionist
 
 whoami_really: |-
   earthling | hooooman | occasionally plant 
@@ -47,13 +47,15 @@ quote_author: |-
   ---Shunryu Suzuki, "Zen Mind, Beginner’s Mind"
 
 other:  |-
-   <span style="color:#00a8e8;">Ph.D candidate</span>
+   <span style="color:#00a8e8;">Postdoctoral Researcher</span>
    
-   <span style="color:rgba(150,150,150, 0.84);">🌀 <a href="https://rl.cs.mcgill.ca/">Reasoning and Learning Lab</a>,</br>  <a href="https://www.cs.mcgill.ca/">McGill University,
-   School of Computer Science</a> </br>
+   <span style="color:rgba(150,150,150, 0.84);">🌀 <a href="https://www.bagotlab.org/">Bagot Lab</a>,  <a href="https://www.cs.mcgill.ca/">McGill University</a> </br>
    🌀 <a href="https://mila.quebec/en/mila/">Mila, Quebec AI Institute</a></span>
 
-   <span style="color:rgba(150,150,150, 0.84);">Supervised by <a href="https://cs.mcgill.ca/~dprecup/">Doina Precup</a>. </span>
+   <span style="color:rgba(150,150,150, 0.84);"><span style="color:#00a8e8;text-align:left;">Past:</span></br> <span style="color:rgb(230,230,230, 0.84);">Ph.D</span> with <a href="https://cs.mcgill.ca/~dprecup/">Doina Precup</a> 🌀 <a href="https://rl.cs.mcgill.ca/">RL Lab</a>, <a href="https://www.cs.mcgill.ca/">McGill University</a> </br> <span style="color:rgb(230,230,230, 0.84);">Research Scientist Intern</span> 🌀 <a href="https://deepmind.google/">Google DeepMind</a></br> (London & Montreal)
+  #  🌀 <a href="https://mila.quebec/en/mila/">Mila, Quebec AI Institute</a></span>
+
+  #  <span style="color:rgba(150,150,150, 0.84);">Supervised by <a href="https://cs.mcgill.ca/~dprecup/">Doina Precup</a>. </span>
 
 # # Status emoji
 status:
@@ -64,25 +66,25 @@ bio: 'I’m a Ph.D. student in the Reasoning and Learning Lab at McGill Universi
 
 # Interests to show in About widget
 interests: 
-  - interest: reinforcement learning/policy optimization
-    type: 1
-  - interest: deep/online/lifelong learning
-    type: 5
   - interest: computational neuroscience
     type: 2
   - interest: psychedelic research
     type: 8
-  - interest: altered states of consciousness
-    type: 4
-  - interest: causality
-    type: 3
+  - interest: reinforcement learning & decision-making
+    type: 1
+  - interest: continual learning
+    type: 5
+  # - interest: altered states of consciousness
+  #   type: 4
+  # - interest: causality
+  #   type: 3
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computer Science (AI/RL/neuro)
       institution: McGill University / Mila Quebec AI Institute
-      year: 2019-present
+      year: 2019-2025
       type: 1
     - course: M.Sc in Computer Science (AI)
       institution: University Politehnica of Bucharest
@@ -123,7 +125,7 @@ social:
   # and uncomment the lines below.
   - icon: file
     icon_pack: fas
-    link: uploads/resume.pdf
+    link: uploads/resume1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -132,8 +134,11 @@ email: ''
 highlight_name: true
 ---
 <div class="card-body experience notinner1">
-  <span style="font-size: 0.9rem;">Don't hesitate to reach out if you want to <span style="color:#bbdefb;">chat about research   </span>
-  <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i>    Schedule a <span style="color:#bbdefb;">meeting</span> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a></span>
+  <span style="font-size:0.9rem; display:inline-block; width:100%; text-align:center;">
+  Don’t hesitate to reach out if you want to 
+  <span style="color:#bbdefb;">chat about research</span>
+  <!-- </span>
+  <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i> <i class="fas fa-angle-double-right" style="color: #00a8e8;"></i>    Schedule a <span style="color:#bbdefb;">meeting</span> <a href="https://calendly.com/veronica-chelu" style="text-decoration: none"><i class="fas fa-thin fa-calendar-days" style="color: #00a8e8;"></i></a></span> -->
 </div>
 <!-- _________________________________________________________________ -->
 
@@ -150,19 +155,22 @@ highlight_name: true
 </br>
 </br>
 <!-- My <span style="color:#EF8371;">research</span> spans <span style="color:#bbdefb;">reinforcement learning</span>, <span style="color:#bbdefb;">deep learning</span>, <span style="color:#bbdefb;">optimization</span> and <span style="color:#bbdefb;">computational neuroscience</span>.</span> -->
-<span style="color:rgba(150,150,150, 0.84);">My  <span style="color:#EF8371;">research</span>  spans  <span style="color:rgb(230,230,230, 0.84);">Reinforcement Learning (RL)</span> and <span style="color:rgb(230,230,230, 0.84);">sequential decision making</span>, <span style="color:rgb(230,230,230, 0.84);">policy optimization</span>, <span style="color:rgb(230,230,230, 0.84);">deep learning</span> and <span style="color:rgb(230,230,230, 0.84);">theoretical & computational neuroscience</span>.</span>
+<span style="color:rgba(150,150,150, 0.84);">My  <span style="color:#EF8371;">research</span>  spans  <span style="color:rgb(230,230,230, 0.84);">cognitive computational neuroscience</span>, <span style="color:rgb(230,230,230, 0.84);">Reinforcement Learning (RL)</span> and <span style="color:rgb(230,230,230, 0.84);">sequential decision making</span>, <span style="color:rgb(230,230,230, 0.84);">deep learning/optimization</span>.</span>
 </br>
 </br>
-<span style="color:rgba(150,150,150, 0.84);">I use tools and perspectives from <span style="color:rgb(230,230,230, 0.84);">mathematics</span>, <span style="color:rgb(230,230,230, 0.84);">statistics</span>, <span style="color:rgb(230,230,230, 0.84);">optimization</span>, <span style="color:rgb(230,230,230, 0.84);">machine/deep learning</span>, <span style="color:rgb(230,230,230, 0.84);">numerical methods</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span>, as well as knowledge and insights from <span style="color:rgb(230,230,230, 0.84);">psychopharmacology</span>.</span>
+<span style="color:rgba(150,150,150, 0.84);">I use tools and perspectives from <span style="color:rgb(230,230,230, 0.84);">mathematics</span>, <span style="color:rgb(230,230,230, 0.84);">statistics</span>, <span style="color:rgb(230,230,230, 0.84);">optimization</span>, <span style="color:rgb(230,230,230, 0.84);">machine/deep learning</span>, <span style="color:rgb(230,230,230, 0.84);">numerical methods</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span>, as well as knowledge and insights from <span style="color:rgb(230,230,230, 0.84);">neuroscience and psychopharmacology</span>.</span>
 <!-- <span style="color:rgba(150,150,150, 0.84);">Primarily, I work with the <span style="color:rgb(230,230,230, 0.84);"> (lifelong) reinforcement learning </span> problem from an <span style="color:rgb(230,230,230, 0.84);">optimization/deep-learning</span> viewpoint---which has applications in <span style="color:rgb(230,230,230, 0.84);">computational neuroscience</span> and understanding of <span style="color:rgb(230,230,230, 0.84);">neural processes</span>---using tools and perspectives from <span style="color:rgb(230,230,230, 0.84);">mathematics</span>, <span style="color:rgb(230,230,230, 0.84);">statistics</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span> and understandings from other <span style="color:rgb(230,230,230, 0.84);">cognitive sciences</span>.</span> -->
 </div>
 <div class="card-body experience notinner3">
 <h2 style="color:rgba(230,230,230, 0.84);text-align:right;padding-right:100px;color:#00a8e8;">Research questions</h2>
 <span style=";color:rgba(150,150,150, 0.84);"> 
-🤖 <span style="color:#00a8e8;">AI</span>-<span style="color:rgb(230,230,230, 0.84);">RL</span>, <span style="color:rgb(230,230,230, 0.84);">policy optimization</span>, <span style="color:rgb(230,230,230, 0.84);">learning theory</span>, <span style="color:rgb(230,230,230, 0.84);">deep & lifelong learning</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span>
+<!-- 🤖 <span style="color:#00a8e8;">AI</span>-<span style="color:rgb(230,230,230, 0.84);">RL</span>, <span style="color:rgb(230,230,230, 0.84);">policy optimization</span>, <span style="color:rgb(230,230,230, 0.84);">learning theory</span>, <span style="color:rgb(230,230,230, 0.84);">deep & lifelong learning</span>, <span style="color:rgb(230,230,230, 0.84);">dynamical systems</span> -->
 <!-- <span style="color:rgb(230,230,230, 0.84);">acceleration</span>, <span style="color:rgb(230,230,230, 0.84);">adaptivity</span>, <span style="color:rgb(230,230,230, 0.84);">plasticity</span>, <span style="color:rgb(230,230,230, 0.84);">planning</span> -->
-</br>
-🧠 <span style="color:#00a8e8;">neuroscience</span>-<span style="color:rgb(230,230,230, 0.84);">study and
+<!-- </br> -->
+<!-- 
+Æ continual reinforcement learning (RL) & adaptive decision-making, learning theory, deep learning,
+dynamical systems, neural latent-circuit modelling -->
+🧠 <span style="color:#00a8e8;">theoretical, computational & behavioural neuroscience</span>-<span style="color:rgb(230,230,230, 0.84);">study and
 understanding of the mechanisms underlying sensory, motor or cognitive computations</span>, <span style="color:rgb(230,230,230, 0.84);">neuroplasticity</span>, <span style="color:rgb(230,230,230, 0.84);">psychedelic research</span>
 <!-- habitual or goal directed behavior, </span><span style="color:rgb(230,230,230, 0.84);">neuroplasticity, </span></span><span style="color:rgba(150,150,150, 0.84);"><span style="color:rgb(230,230,230, 0.84);">psychedelic research</span> for therapeutic drug design</span><span style="color:rgba(150,150,150, 0.84);">---psychopathologies associated with cognitive inflexibility, plasticity loss---</span><span style="color:rgb(230,230,230, 0.84);">study & understanding of <span style="color:rgb(230,230,230, 0.84);">altered states of consciousness</span>,</span><span style="color:rgba(150,150,150, 0.84);"> via meditation, breathwork, and/or psychedelics</span> -->
 </div>
