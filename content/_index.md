@@ -152,7 +152,7 @@ sections:
               May 15, 2025
             </time>-
             <a href="#"
-              style="font-size:1.1rem; font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
+              style="font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
               Excited to start a postdoc in Rose Bagot's lab at McGill to study the neural mechanisms of psychedelics. 
             </a>
           </li>
@@ -162,7 +162,7 @@ sections:
               April 15, 2025
             </time>-
             <a href="#"
-              style="font-size:1.1rem; font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
+              style="font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
               I'm officially a Dr. 
             </a>
           </li>
@@ -172,7 +172,7 @@ sections:
               March 25, 2025
             </time>-
             <a href="#"
-              style="font-size:1.1rem; font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
+              style="font-weight:600; color:#rgb(230,230,230, 0.84); text-decoration:none;">
               Successfully defended my Ph.D
             </a>
           </li>
@@ -182,7 +182,7 @@ sections:
               March 27 - April 1, 2025
             </time>-
             <a href="#"
-              style="font-size:1.1rem; font-weight:600; color:rgb(230,230,230, 0.84); text-decoration:none;">
+              style="font-weight:600; color:rgb(230,230,230, 0.84); text-decoration:none;">
               Presenting "Mood as an Extrapolation Engine for Adaptive Learning & Decision-Making" at COSYNE 2025.
             </a>
           </li>
