@@ -151,40 +151,40 @@ sections:
                   style="display:inline; font-size:0.85rem; color:#666; margin-bottom:0.25rem;">
               May 15, 2025
             </time>-
-            <a href="#"
-              style="color:#rgb(230,230,230, 0.84); text-decoration:none;">
-              Excited to start a postdoc in Rose Bagot's lab at McGill to study the neural mechanisms of psychedelics :brain: :mushroom:  :sparkles::mouse2::cyclone:. 
-            </a>
+            <span
+              style="color:rgb(230,230,230, 0.84); text-decoration:none;">
+              Excited to start a postdoc in Rose Bagot's lab at McGill to study the neural mechanisms of psychedelics :brain: :mushroom:  :sparkles::mouse2::cyclone: 
+            </span>
           </li>
         <li style="margin-bottom:1.5rem;">
             <time datetime="2025-05-25"
                   style="display:inline; font-size:0.85rem; color:#666; margin-bottom:0.25rem;">
               April 15, 2025
             </time>-
-            <a href="#"
-              style="color:#rgb(230,230,230, 0.84); text-decoration:none;">
-              I'm officially a Dr. ! yay! :)
-            </a>
+            <span
+              style="color:rgb(230,230,230, 0.84); text-decoration:none;">
+              I'm officially a Dr. :sparkles: yay :partying_face: 
+            </span>
           </li>
           <li style="margin-bottom:1.5rem;">
             <time datetime="2025-05-25"
                   style="display:inline; font-size:0.85rem; color:#666; margin-bottom:0.25rem;">
               March 25, 2025
             </time>-
-            <a href="#"
-              style="color:#rgb(230,230,230, 0.84); text-decoration:none;">
-              Successfully defended my Ph.D! phew...
-            </a>
+            <span 
+              style="color:rgb(230,230,230, 0.84); text-decoration:none;">
+              Successfully defended my Ph.D :face_holding_back_tears: phew...
+            </span>
           </li>
           <li style="margin-bottom:1.5rem;">
             <time datetime="2025-05-20"
                   style="display:inline; font-size:0.85rem; color:#666; margin-bottom:0.25rem;">
               March 27 - April 1, 2025
             </time>-
-            <a href="#"
+            <span
               style="color:rgb(230,230,230, 0.84); text-decoration:none;">
-              Presenting "Mood as an Extrapolation Engine for Adaptive Learning & Decision-Making" at COSYNE 2025. Couldn't be more excited! It's my first neuroscience conference.
-            </a>
+              Presenting "Mood as an Extrapolation Engine for Adaptive Learning & Decision-Making" at COSYNE 2025. It's my first neuroscience conference and I couldn't be more excited :grimacing: 
+            </span>
           </li>
           <!-- Repeat .recent-news__item as needed -->
         </ul>
